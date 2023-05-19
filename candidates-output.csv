@@ -1,0 +1,105 @@
+state,postal_code,web_id,inc,class,state_id,party,party_id,cand,cand_id,fund_weight,exp_weight,fund_pct,exp_pct,poll_weight,state_sim_weight,poll_pct,state_sim_pct,proj_vote,variance,index,win
+Alabama,AL,alabama,,Class III,AL,R,REP,REP_CAND,REP_CAND,40.0,20.0,64.15,63.13,0.0,0.0,0.0,0.0,63.81,7.0,0.0,100.0
+Alabama,AL,alabama,,Class III,AL,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,32.2,33.23,0.0,0.0,0.0,0.0,32.54,7.0,1.0,0.0
+Alabama,AL,alabama,,Class III,AL,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.82,1.82,0.0,0.0,0.0,0.0,1.82,7.0,2.0,0.0
+Alaska,AK,alaska,yes,Class III,AK,R,REP,Lisa Murkowski,Lisa Murkowski,40.0,20.0,54.82,53.49,0.0,0.0,0.0,0.0,54.38,7.0,3.0,100.0
+Alaska,AK,alaska,,Class III,AK,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,31.24,32.58,0.0,0.0,0.0,0.0,31.69,7.0,4.0,0.0
+Alaska,AK,alaska,,Class III,AK,I,IND,IND_CAND,IND_CAND,40.0,20.0,6.97,6.97,0.0,0.0,0.0,0.0,6.97,7.0,5.0,0.0
+Arizona,AZ,arizona,,Class III,AZ,R,REP,REP_CAND,REP_CAND,40.0,20.0,48.18,47.47,0.0,0.0,0.0,0.0,47.94,7.0,6.0,40.0
+Arizona,AZ,arizona,yes,Class III,AZ,D,DEM,Mark Kelly,Mark Kelly,40.0,20.0,46.23,46.94,0.0,0.0,0.0,0.0,46.47,7.0,7.0,60.0
+Arizona,AZ,arizona,,Class III,AZ,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.8,2.8,0.0,0.0,0.0,0.0,2.8,7.0,8.0,0.0
+Arkansas,AR,arkansas,yes,Class III,AR,R,REP,John Boozman,John Boozman,40.0,20.0,64.79,63.64,0.0,0.0,0.0,0.0,64.41,7.0,9.0,100.0
+Arkansas,AR,arkansas,,Class III,AR,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,29.82,30.97,0.0,0.0,0.0,0.0,30.2,7.0,10.0,0.0
+Arkansas,AR,arkansas,,Class III,AR,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.7,2.7,0.0,0.0,0.0,0.0,2.7,7.0,11.0,0.0
+California,CA,california,,Class III,CA,R,REP,REP_CAND,REP_CAND,40.0,20.0,-3211.77,-3212.85,0.0,0.0,0.0,0.0,-3212.13,7.0,12.0,0.0
+California,CA,california,yes,Class III,CA,D,DEM,Alex Padilla,Alex Padilla,40.0,20.0,-3188.23,-3187.15,0.0,0.0,0.0,0.0,-3187.87,7.0,13.0,100.0
+Colorado,CO,colorado,,Class III,CO,R,REP,REP_CAND,REP_CAND,40.0,20.0,43.72,40.03,0.0,0.0,0.0,0.0,42.49,7.0,14.0,0.0
+Colorado,CO,colorado,yes,Class III,CO,D,DEM,Michael Bennet,Michael Bennet,40.0,20.0,49.09,52.78,0.0,0.0,0.0,0.0,50.32,7.0,15.0,100.0
+Colorado,CO,colorado,,Class III,CO,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.6,3.6,0.0,0.0,0.0,0.0,3.6,7.0,16.0,0.0
+Connecticut,CT,connecticut,,Class III,CT,R,REP,REP_CAND,REP_CAND,40.0,20.0,38.49,37.33,0.0,0.0,0.0,0.0,38.1,7.0,17.0,0.0
+Connecticut,CT,connecticut,yes,Class III,CT,D,DEM,Richard Blumenthal,Richard Blumenthal,40.0,20.0,56.16,57.33,0.0,0.0,0.0,0.0,56.55,7.0,18.0,100.0
+Connecticut,CT,connecticut,,Class III,CT,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.67,2.67,0.0,0.0,0.0,0.0,2.67,7.0,19.0,0.0
+Florida,FL,florida,yes,Class III,FL,R,REP,Marco Rubio,Marco Rubio,40.0,20.0,54.02,53.69,0.0,0.0,0.0,0.0,53.91,7.0,20.0,80.0
+Florida,FL,florida,,Class III,FL,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,42.88,43.21,0.0,0.0,0.0,0.0,42.99,7.0,21.0,20.0
+Florida,FL,florida,,Class III,FL,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.55,1.55,0.0,0.0,0.0,0.0,1.55,7.0,22.0,0.0
+Georgia,GA,georgia,,Class III,GA,R,REP,REP_CAND,REP_CAND,40.0,20.0,50.11,48.68,0.0,0.0,0.0,0.0,49.63,7.0,23.0,50.0
+Georgia,GA,georgia,yes,Class III,GA,D,DEM,Raphael Warnock,Raphael Warnock,40.0,20.0,47.24,48.68,0.0,0.0,0.0,0.0,47.72,7.0,24.0,50.0
+Georgia,GA,georgia,,Class III,GA,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.32,1.32,0.0,0.0,0.0,0.0,1.32,7.0,25.0,0.0
+Hawaii,HI,hawaii,,Class III,HI,R,REP,REP_CAND,REP_CAND,40.0,20.0,29.91,28.68,0.0,0.0,0.0,0.0,29.5,7.0,26.0,0.0
+Hawaii,HI,hawaii,yes,Class III,HI,D,DEM,Brian Schatz,Brian Schatz,40.0,20.0,63.9,65.13,0.0,0.0,0.0,0.0,64.31,7.0,27.0,100.0
+Hawaii,HI,hawaii,,Class III,HI,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.1,3.1,0.0,0.0,0.0,0.0,3.1,7.0,28.0,0.0
+Idaho,ID,idaho,yes,Class III,ID,R,REP,Mike Crapo,Mike Crapo,40.0,20.0,67.02,65.73,0.0,0.0,0.0,0.0,66.59,7.0,29.0,100.0
+Idaho,ID,idaho,,Class III,ID,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,25.04,26.32,0.0,0.0,0.0,0.0,25.47,7.0,30.0,0.0
+Idaho,ID,idaho,,Class III,ID,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.97,3.97,0.0,0.0,0.0,0.0,3.97,7.0,31.0,0.0
+Illinois,IL,illinois,,Class III,IL,R,REP,REP_CAND,REP_CAND,40.0,20.0,41.26,37.9,0.0,0.0,0.0,0.0,40.14,7.0,32.0,0.0
+Illinois,IL,illinois,,Class III,IL,D,DEM,Tammy Duckworth,Tammy Duckworth,40.0,20.0,54.55,57.9,0.0,0.0,0.0,0.0,55.67,7.0,33.0,100.0
+Illinois,IL,illinois,,Class III,IL,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.1,2.1,0.0,0.0,0.0,0.0,2.1,7.0,34.0,0.0
+Indiana,IN,indiana,yes,Class III,IN,R,REP,Todd Young,Todd Young,40.0,20.0,59.72,58.58,0.0,0.0,0.0,0.0,59.34,7.0,35.0,100.0
+Indiana,IN,indiana,,Class III,IN,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,36.18,37.32,0.0,0.0,0.0,0.0,36.56,7.0,36.0,0.0
+Indiana,IN,indiana,,Class III,IN,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.05,2.05,0.0,0.0,0.0,0.0,2.05,7.0,37.0,0.0
+Iowa,IA,iowa,yes,Class III,IA,R,REP,Chuck Grassley,Chuck Grassley,40.0,20.0,57.94,57.28,0.0,0.0,0.0,0.0,57.72,7.0,38.0,100.0
+Iowa,IA,iowa,,Class III,IA,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,36.61,37.28,0.0,0.0,0.0,0.0,36.83,7.0,39.0,0.0
+Iowa,IA,iowa,,Class III,IA,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.72,2.72,0.0,0.0,0.0,0.0,2.72,7.0,40.0,0.0
+Kansas,KS,kansas,yes,Class III,KS,R,REP,Jerry Moran,Jerry Moran,40.0,20.0,60.85,59.7,0.0,0.0,0.0,0.0,60.47,7.0,41.0,100.0
+Kansas,KS,kansas,,Class III,KS,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,32.71,33.86,0.0,0.0,0.0,0.0,33.09,7.0,42.0,0.0
+Kansas,KS,kansas,,Class III,KS,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.22,3.22,0.0,0.0,0.0,0.0,3.22,7.0,43.0,0.0
+Kentucky,KY,kentucky,yes,Class III,KY,R,REP,Rand Paul,Rand Paul,40.0,20.0,63.99,62.91,0.0,0.0,0.0,0.0,63.63,7.0,44.0,100.0
+Kentucky,KY,kentucky,,Class III,KY,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,32.17,33.25,0.0,0.0,0.0,0.0,32.53,7.0,45.0,0.0
+Kentucky,KY,kentucky,,Class III,KY,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.92,1.92,0.0,0.0,0.0,0.0,1.92,7.0,46.0,0.0
+Louisiana,LA,louisiana,yes,Class III,LA,R,REP,John Kennedy,John Kennedy,40.0,20.0,61.6,60.5,0.0,0.0,0.0,0.0,61.23,7.0,47.0,100.0
+Louisiana,LA,louisiana,,Class III,LA,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,33.75,34.86,0.0,0.0,0.0,0.0,34.12,7.0,48.0,0.0
+Louisiana,LA,louisiana,,Class III,LA,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.32,2.32,0.0,0.0,0.0,0.0,2.32,7.0,49.0,0.0
+Maryland,MD,maryland,,Class III,MD,R,REP,REP_CAND,REP_CAND,40.0,20.0,34.46,33.35,0.0,0.0,0.0,0.0,34.09,7.0,50.0,0.0
+Maryland,MD,maryland,yes,Class III,MD,D,DEM,Chris Van Hollen,Chris Van Hollen,40.0,20.0,61.2,62.3,0.0,0.0,0.0,0.0,61.57,7.0,51.0,100.0
+Maryland,MD,maryland,,Class III,MD,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.17,2.17,0.0,0.0,0.0,0.0,2.17,7.0,52.0,0.0
+Missouri,MO,missouri,,Class III,MO,R,REP,REP_CAND,REP_CAND,40.0,20.0,59.32,58.23,0.0,0.0,0.0,0.0,58.96,7.0,53.0,100.0
+Missouri,MO,missouri,,Class III,MO,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,37.03,38.13,0.0,0.0,0.0,0.0,37.4,7.0,54.0,0.0
+Missouri,MO,missouri,,Class III,MO,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.82,1.82,0.0,0.0,0.0,0.0,1.82,7.0,55.0,0.0
+Nevada,NV,nevada,,Class III,NV,R,REP,REP_CAND,REP_CAND,40.0,20.0,46.95,46.7,0.0,0.0,0.0,0.0,46.87,7.0,56.0,50.0
+Nevada,NV,nevada,yes,Class III,NV,D,DEM,Catherine Cortez Mastro,Catherine Cortez Mastro,40.0,20.0,46.45,46.7,0.0,0.0,0.0,0.0,46.53,7.0,57.0,50.0
+Nevada,NV,nevada,,Class III,NV,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.3,3.3,0.0,0.0,0.0,0.0,3.3,7.0,58.0,0.0
+New Hampshire,NH,new-hampshire,,Class III,NH,R,REP,REP_CAND,REP_CAND,40.0,20.0,46.45,45.81,0.0,0.0,0.0,0.0,46.24,7.0,59.0,20.0
+New Hampshire,NH,new-hampshire,yes,Class III,NH,D,DEM,Maggie Hassan,Maggie Hassan,40.0,20.0,48.26,48.9,0.0,0.0,0.0,0.0,48.47,7.0,60.0,80.0
+New Hampshire,NH,new-hampshire,,Class III,NH,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.65,2.65,0.0,0.0,0.0,0.0,2.65,7.0,61.0,0.0
+New York,NY,new-york,,Class III,NY,R,REP,REP_CAND,REP_CAND,40.0,20.0,34.71,33.6,0.0,0.0,0.0,0.0,34.34,7.0,62.0,0.0
+New York,NY,new-york,yes,Class III,NY,D,DEM,Chuck Schumer,Chuck Schumer,40.0,20.0,58.99,60.11,0.0,0.0,0.0,0.0,59.36,7.0,63.0,100.0
+New York,NY,new-york,,Class III,NY,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.15,3.15,0.0,0.0,0.0,0.0,3.15,7.0,64.0,0.0
+North Carolina,NC,north-carolina,,Class III,NC,R,REP,REP_CAND,REP_CAND,40.0,20.0,52.78,52.12,0.0,0.0,0.0,0.0,52.56,7.0,65.0,70.0
+North Carolina,NC,north-carolina,,Class III,NC,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,44.72,45.39,0.0,0.0,0.0,0.0,44.94,7.0,66.0,30.0
+North Carolina,NC,north-carolina,,Class III,NC,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.25,1.25,0.0,0.0,0.0,0.0,1.25,7.0,67.0,0.0
+North Dakota,ND,north-dakota,yes,Class III,ND,R,REP,John Hoeven,John Hoeven,40.0,20.0,71.73,70.6,0.0,0.0,0.0,0.0,71.35,7.0,68.0,100.0
+North Dakota,ND,north-dakota,,Class III,ND,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,20.88,22.01,0.0,0.0,0.0,0.0,21.26,7.0,69.0,0.0
+North Dakota,ND,north-dakota,,Class III,ND,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.7,3.7,0.0,0.0,0.0,0.0,3.7,7.0,70.0,0.0
+Ohio,OH,ohio,,Class III,OH,R,REP,REP_CAND,REP_CAND,40.0,20.0,53.56,55.52,0.0,0.0,0.0,0.0,54.21,7.0,71.0,90.0
+Ohio,OH,ohio,,Class III,OH,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,41.49,39.53,0.0,0.0,0.0,0.0,40.84,7.0,72.0,10.0
+Ohio,OH,ohio,,Class III,OH,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.47,2.47,0.0,0.0,0.0,0.0,2.47,7.0,73.0,0.0
+Oklahoma,OK,oklahoma,yes,Class III,OK,R,REP,James Lankford,James Lankford,40.0,20.0,68.15,67.07,0.0,0.0,0.0,0.0,67.79,7.0,74.0,100.0
+Oklahoma,OK,oklahoma,,Class III,OK,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,29.11,30.19,0.0,0.0,0.0,0.0,29.47,7.0,75.0,0.0
+Oklahoma,OK,oklahoma,,Class III,OK,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.37,1.37,0.0,0.0,0.0,0.0,1.37,7.0,76.0,0.0
+Oklahoma*,OK*,oklahoma-special,,Class II,OKS,R,REP,REP_CAND,REP_CAND,40.0,20.0,68.76,67.68,0.0,0.0,0.0,0.0,68.4,7.0,77.0,100.0
+Oklahoma*,OK*,oklahoma-special,,Class II,OKS,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,28.5,29.58,0.0,0.0,0.0,0.0,28.86,7.0,78.0,0.0
+Oklahoma*,OK*,oklahoma-special,,Class II,OKS,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.37,1.37,0.0,0.0,0.0,0.0,1.37,7.0,79.0,0.0
+Oregon,OR,oregon,,Class III,OR,R,REP,REP_CAND,REP_CAND,40.0,20.0,39.02,35.88,0.0,0.0,0.0,0.0,37.97,7.0,80.0,0.0
+Oregon,OR,oregon,yes,Class III,OR,D,DEM,Ron Wyden,Ron Wyden,40.0,20.0,52.73,55.88,0.0,0.0,0.0,0.0,53.78,7.0,81.0,100.0
+Oregon,OR,oregon,,Class III,OR,I,IND,IND_CAND,IND_CAND,40.0,20.0,4.12,4.12,0.0,0.0,0.0,0.0,4.12,7.0,82.0,0.0
+Pennsylvania,PA,pennsylvania,,Class III,PA,R,REP,REP_CAND,REP_CAND,40.0,20.0,50.68,48.6,0.0,0.0,0.0,0.0,49.99,7.0,83.0,40.0
+Pennsylvania,PA,pennsylvania,,Class III,PA,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,45.18,47.25,0.0,0.0,0.0,0.0,45.87,7.0,84.0,60.0
+Pennsylvania,PA,pennsylvania,,Class III,PA,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.07,2.07,0.0,0.0,0.0,0.0,2.07,7.0,85.0,0.0
+South Carolina,SC,south-carolina,yes,Class III,SC,R,REP,Tim Scott,Tim Scott,40.0,20.0,59.59,58.48,0.0,0.0,0.0,0.0,59.22,7.0,86.0,100.0
+South Carolina,SC,south-carolina,,Class III,SC,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,36.66,37.78,0.0,0.0,0.0,0.0,37.03,7.0,87.0,0.0
+South Carolina,SC,south-carolina,,Class III,SC,I,IND,IND_CAND,IND_CAND,40.0,20.0,1.87,1.87,0.0,0.0,0.0,0.0,1.87,7.0,88.0,0.0
+South Dakota,SD,south-dakota,yes,Class III,SD,R,REP,John Thune,John Thune,40.0,20.0,68.15,66.99,0.0,0.0,0.0,0.0,67.76,7.0,89.0,100.0
+South Dakota,SD,south-dakota,,Class III,SD,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,26.76,27.92,0.0,0.0,0.0,0.0,27.15,7.0,90.0,0.0
+South Dakota,SD,south-dakota,,Class III,SD,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.55,2.55,0.0,0.0,0.0,0.0,2.55,7.0,91.0,0.0
+Utah,UT,utah,yes,Class III,UT,R,REP,Mike Lee,Mike Lee,40.0,20.0,61.63,60.41,0.0,0.0,0.0,0.0,61.22,7.0,92.0,100.0
+Utah,UT,utah,,Class III,UT,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,28.38,29.6,0.0,0.0,0.0,0.0,28.79,7.0,93.0,0.0
+Utah,UT,utah,,Class III,UT,I,IND,IND_CAND,IND_CAND,40.0,20.0,5.0,5.0,0.0,0.0,0.0,0.0,5.0,7.0,94.0,0.0
+Vermont,VT,vermont,,Class III,VT,R,REP,REP_CAND,REP_CAND,40.0,20.0,32.42,31.13,0.0,0.0,0.0,0.0,31.99,7.0,95.0,0.0
+Vermont,VT,vermont,,Class III,VT,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,58.74,60.03,0.0,0.0,0.0,0.0,59.17,7.0,96.0,100.0
+Vermont,VT,vermont,,Class III,VT,I,IND,IND_CAND,IND_CAND,40.0,20.0,4.42,4.42,0.0,0.0,0.0,0.0,4.42,7.0,97.0,0.0
+Washington,WA,washington,,Class III,WA,R,REP,REP_CAND,REP_CAND,40.0,20.0,38.7,36.23,0.0,0.0,0.0,0.0,37.88,7.0,98.0,0.0
+Washington,WA,washington,yes,Class III,WA,D,DEM,Patty Murray,Patty Murray,40.0,20.0,53.75,56.23,0.0,0.0,0.0,0.0,54.58,7.0,99.0,100.0
+Washington,WA,washington,,Class III,WA,I,IND,IND_CAND,IND_CAND,40.0,20.0,3.77,3.77,0.0,0.0,0.0,0.0,3.77,7.0,100.0,0.0
+Wisconsin,WI,wisconsin,yes,Class III,WI,R,REP,Ron Johnson,Ron Johnson,40.0,20.0,51.73,49.03,0.0,0.0,0.0,0.0,50.83,7.0,101.0,80.0
+Wisconsin,WI,wisconsin,,Class III,WI,D,DEM,DEM_CAND,DEM_CAND,40.0,20.0,43.07,45.78,0.0,0.0,0.0,0.0,43.97,7.0,102.0,20.0
+Wisconsin,WI,wisconsin,,Class III,WI,I,IND,IND_CAND,IND_CAND,40.0,20.0,2.6,2.6,0.0,0.0,0.0,0.0,2.6,7.0,103.0,0.0

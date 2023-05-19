@@ -1,0 +1,1820 @@
+pollster,pollster_rating_id,grade,end_date,population,sample_size,yes,no
+SurveyMonkey,324,0.75,2022-05-31,rv,39828.0,42.0,58.0
+YouGov,391,0.93,2022-05-31,rv,1280.0,43.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-31,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2022-05-31,a,45000.0,40.0,53.0
+Morning Consult,218,1.0,2022-05-30,a,45000.0,40.0,53.0
+Redfield & Wilton Strategies,562,0.3,2022-05-30,rv,1500.0,39.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-30,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-29,a,2210.0,42.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-29,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-29,rv,4010.0,43.0,54.0
+Leger,572,0.9,2022-05-29,a,1005.0,41.0,57.0
+Morning Consult,218,1.0,2022-05-29,a,45000.0,39.0,53.0
+Morning Consult,218,1.0,2022-05-28,a,2210.0,44.0,52.0
+Morning Consult,218,1.0,2022-05-28,a,45000.0,40.0,52.0
+Morning Consult,218,1.0,2022-05-27,a,45000.0,40.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-26,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-26,a,45000.0,39.0,53.0
+Morning Consult,218,1.0,2022-05-26,rv,2005.0,41.0,56.0
+Winston,385,0.9,2022-05-26,rv,1000.0,41.0,51.0
+Morning Consult,218,1.0,2022-05-25,a,45000.0,40.0,52.0
+Morning Consult,218,1.0,2022-05-25,rv,1920.0,42.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-25,lv,1500.0,42.0,56.0
+Emerson College Polling Society,88,1.05,2022-05-25,rv,1148.0,37.6,52.0
+Zogby,395,0.85,2022-05-24,lv,1100.0,43.0,49.4
+Ipsos,154,1.05,2022-05-24,a,1005.0,36.41,59.31
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-24,lv,1500.0,43.0,56.0
+YouGov,391,0.93,2022-05-24,rv,1332.0,44.0,51.0
+Morning Consult,218,1.0,2022-05-24,a,45000.0,40.0,52.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-05-23,rv,998.0,42.0,56.0
+Morning Consult,218,1.0,2022-05-23,a,45000.0,40.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-23,lv,1500.0,42.0,57.0
+Echelon Insights,407,0.9,2022-05-23,lv,1020.0,45.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-22,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-05-22,a,45000.0,41.0,52.0
+Gallup,112,1.05,2022-05-22,a,1007.0,41.0,54.0
+YouGov,391,0.93,2022-05-22,rv,1368.0,43.0,54.0
+Morning Consult,218,1.0,2022-05-22,rv,2005.0,42.0,56.0
+Morning Consult,218,1.0,2022-05-21,a,45000.0,41.0,52.0
+Big Village,37,1.0,2022-05-20,rv,825.0,41.0,54.4
+Morning Consult,218,1.0,2022-05-20,a,45000.0,41.0,51.0
+American Research Group,9,0.75,2022-05-20,rv,992.0,39.0,55.0
+YouGov,391,0.93,2022-05-20,a,2041.0,44.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-19,lv,1500.0,40.0,58.0
+NewsNation/Decision Desk HQ,696,0.6,2022-05-19,rv,1009.0,42.75,57.25
+McCourtney Institute/YouGov,391,0.93,2022-05-19,a,1000.0,42.0,58.0
+Morning Consult,218,1.0,2022-05-19,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-05-19,a,2210.0,44.0,52.0
+Harris Poll,133,1.05,2022-05-19,rv,1963.0,41.0,55.0
+Marquette Law School,195,1.08,2022-05-19,a,1004.0,42.0,57.0
+Morning Consult,218,1.0,2022-05-18,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-18,lv,1500.0,41.0,57.0
+Ipsos,154,1.05,2022-05-17,a,1005.0,42.19,50.38
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-17,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-17,a,45000.0,41.0,51.0
+YouGov,391,0.93,2022-05-17,rv,1342.0,43.0,51.0
+Redfield & Wilton Strategies,562,0.3,2022-05-17,rv,1500.0,39.0,47.0
+Morning Consult,218,1.0,2022-05-16,rv,2006.0,41.0,56.0
+Morning Consult,218,1.0,2022-05-16,rv,2005.0,44.0,54.0
+AP-NORC,397,0.6,2022-05-16,a,1172.0,39.0,60.0
+Bullfinch,692,0.6,2022-05-16,rv,1000.0,46.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-16,lv,1500.0,44.0,55.0
+Morning Consult,218,1.0,2022-05-16,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-05-16,rv,1702.0,43.0,55.0
+Quinnipiac,267,1.0,2022-05-16,rv,1421.0,38.0,55.0
+Morning Consult,218,1.0,2022-05-15,a,45000.0,41.0,51.0
+Leger,572,0.9,2022-05-15,a,1000.0,43.0,55.0
+Cygnal Political,67,1.05,2022-05-15,lv,5765.0,43.2,55.2
+Morning Consult,218,1.0,2022-05-15,rv,2005.0,42.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-15,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2022-05-15,a,2210.0,42.0,52.0
+McLaughlin,203,0.4,2022-05-14,lv,2000.0,45.0,55.0
+Morning Consult,218,1.0,2022-05-14,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-05-13,a,45000.0,41.0,51.0
+Marist,183,1.0,2022-05-13,rv,1213.0,40.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-12,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2022-05-12,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-11,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2022-05-11,a,45000.0,41.0,51.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2022-05-10,rv,790.0,42.0,54.0
+Morning Consult,218,1.0,2022-05-10,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-10,lv,1500.0,40.0,59.0
+YouGov,391,0.93,2022-05-10,rv,1361.0,42.0,51.0
+Ipsos,154,1.05,2022-05-10,a,1005.0,42.39,50.39
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-09,lv,1500.0,41.0,57.0
+YouGov,391,0.93,2022-05-09,a,1000.0,38.0,55.0
+Morning Consult,218,1.0,2022-05-09,a,45000.0,41.0,51.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-05-09,rv,999.0,44.0,53.0
+Monmouth U.,215,1.0,2022-05-09,rv,751.0,39.0,56.0
+Morning Consult,218,1.0,2022-05-09,rv,2005.0,42.0,55.0
+Morning Consult,218,1.0,2022-05-08,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-08,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-08,a,2210.0,43.0,52.0
+Morning Consult,218,1.0,2022-05-07,a,45000.0,41.0,51.0
+YouGov,391,0.93,2022-05-06,rv,1215.0,43.0,54.0
+Winston,385,0.9,2022-05-06,rv,1000.0,42.0,49.0
+Morning Consult,218,1.0,2022-05-06,a,45000.0,41.0,51.0
+TIPP,144,1.3,2022-05-06,a,1320.0,39.0,47.0
+Big Village,37,1.0,2022-05-06,rv,833.0,43.6,52.6
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-05,lv,1500.0,45.0,53.0
+Morning Consult,218,1.0,2022-05-05,a,2210.0,42.0,53.0
+Morning Consult,218,1.0,2022-05-05,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-04,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-04,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-05-03,a,2210.0,41.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-03,lv,1500.0,42.0,56.0
+YouGov,391,0.93,2022-05-03,rv,1303.0,46.0,50.0
+Morning Consult,218,1.0,2022-05-03,rv,1955.0,44.0,54.0
+Ipsos,154,1.05,2022-05-03,a,1005.0,44.35,49.6
+Morning Consult,218,1.0,2022-05-03,a,45000.0,41.0,51.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-05-02,rv,999.0,42.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-02,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-05-02,rv,2000.0,41.0,55.0
+Morning Consult,218,1.0,2022-05-02,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-05-01,lv,1500.0,44.0,54.0
+Leger,572,0.9,2022-05-01,a,1005.0,43.0,55.0
+Beacon Research/Shaw & Company,103,1.0,2022-05-01,rv,1003.0,45.0,53.0
+SSRS,297,0.65,2022-05-01,rv,806.0,41.0,59.0
+Morning Consult,218,1.0,2022-05-01,a,45000.0,41.0,51.0
+Redfield & Wilton Strategies,562,0.3,2022-05-01,rv,1500.0,39.0,47.0
+Morning Consult,218,1.0,2022-04-30,a,45000.0,41.0,51.0
+SurveyMonkey,324,0.75,2022-04-30,a,45659.0,42.0,56.0
+Morning Consult,218,1.0,2022-04-29,a,45000.0,40.0,51.0
+Fairleigh Dickinson,92,0.9,2022-04-29,a,1021.0,38.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-28,lv,1500.0,42.0,55.0
+Morning Consult,218,1.0,2022-04-28,a,45000.0,40.0,51.0
+ABC/Washington Post,3,1.2,2022-04-28,rv,907.0,42.0,52.0
+Winston,385,0.9,2022-04-28,rv,1000.0,44.0,49.0
+Susquehanna,326,0.93,2022-04-27,lv,800.0,39.0,54.0
+YouGov,391,0.93,2022-04-27,rv,1336.0,43.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-27,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-04-27,a,45000.0,40.0,51.0
+Marist,183,1.0,2022-04-26,rv,1162.0,42.0,53.0
+McLaughlin,203,0.4,2022-04-26,lv,1000.0,41.0,57.0
+Ipsos,154,1.05,2022-04-26,a,1005.0,42.15,53.47
+Emerson College Polling Society,88,1.05,2022-04-26,rv,1000.0,41.7,49.7
+Morning Consult,218,1.0,2022-04-26,a,45000.0,40.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-26,lv,1500.0,41.0,58.0
+Quinnipiac,267,1.0,2022-04-25,rv,1409.0,40.0,51.0
+Morning Consult,218,1.0,2022-04-25,rv,2004.0,42.0,55.0
+Morning Consult,218,1.0,2022-04-25,a,45000.0,40.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-25,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-04-25,rv,2004.0,42.0,55.0
+Morning Consult,218,1.0,2022-04-24,a,45000.0,40.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-24,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-04-23,a,45000.0,40.0,52.0
+RMG Research,555,0.85,2022-04-23,rv,1200.0,42.0,53.0
+InsiderAdvantage,243,0.93,2022-04-23,lv,750.0,43.0,54.0
+Morning Consult,218,1.0,2022-04-23,a,4410.0,42.0,52.0
+Morning Consult,218,1.0,2022-04-22,a,45000.0,40.0,52.0
+Big Village,37,1.0,2022-04-22,rv,817.0,43.8,51.1
+YouGov,391,0.93,2022-04-22,rv,1187.0,44.0,52.0
+Harris Poll,133,1.05,2022-04-21,rv,1966.0,41.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-21,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2022-04-21,a,45000.0,40.0,52.0
+Morning Consult,218,1.0,2022-04-21,a,2206.0,42.0,53.0
+Echelon Insights,407,0.9,2022-04-20,lv,1001.0,44.0,55.0
+American Research Group,9,0.75,2022-04-20,rv,993.0,39.0,55.0
+Trafalgar Group,338,1.05,2022-04-20,lv,1077.0,39.6,55.3
+RMG Research,555,0.85,2022-04-20,rv,1200.0,39.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-20,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2022-04-20,a,45000.0,40.0,52.0
+Gallup,112,1.05,2022-04-19,a,1018.0,41.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-19,lv,1500.0,43.0,56.0
+YouGov,391,0.93,2022-04-19,rv,1260.0,43.0,51.0
+Morning Consult,218,1.0,2022-04-19,a,45000.0,40.0,52.0
+Ipsos,154,1.05,2022-04-19,a,1005.0,43.27,51.32
+GQR,126,0.93,2022-04-19,rv,2000.0,52.0,48.0
+Redfield & Wilton Strategies,562,0.3,2022-04-18,rv,1500.0,38.0,47.0
+AP-NORC,397,0.6,2022-04-18,a,1085.0,45.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-18,lv,1500.0,45.0,53.0
+NewsNation/Decision Desk HQ,696,0.6,2022-04-18,rv,1038.0,47.4,52.6
+POS,260,1.0,2022-04-18,rv,1500.0,44.0,56.0
+Cygnal Political,67,1.05,2022-04-18,lv,5846.0,44.6,53.7
+Morning Consult,218,1.0,2022-04-18,a,45000.0,40.0,51.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-04-18,rv,997.0,46.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-17,lv,1500.0,44.0,54.0
+Morning Consult,218,1.0,2022-04-17,a,2210.0,43.0,52.0
+Morning Consult,218,1.0,2022-04-17,rv,2005.0,45.0,52.0
+Morning Consult,218,1.0,2022-04-17,a,45000.0,40.0,51.0
+RMG Research,555,0.85,2022-04-16,rv,1200.0,41.0,55.0
+Morning Consult,218,1.0,2022-04-16,a,45000.0,40.0,51.0
+Morning Consult,218,1.0,2022-04-15,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-04-14,a,45000.0,41.0,51.0
+RMG Research,555,0.85,2022-04-14,rv,1200.0,43.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-14,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-04-13,a,45000.0,41.0,50.0
+RMG Research,555,0.85,2022-04-13,rv,1200.0,43.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-13,lv,1500.0,40.0,58.0
+Ipsos,154,1.05,2022-04-12,a,1005.0,40.76,53.2
+YouGov,391,0.93,2022-04-12,rv,1303.0,46.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-12,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-04-12,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-04-11,rv,2005.0,42.0,55.0
+Morning Consult,218,1.0,2022-04-11,a,45000.0,42.0,50.0
+Quinnipiac,267,1.0,2022-04-11,rv,1256.0,35.0,55.0
+Morning Consult,218,1.0,2022-04-11,a,2210.0,40.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-11,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-04-11,rv,2005.0,41.0,55.0
+Morning Consult,218,1.0,2022-04-10,a,2210.0,40.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-10,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-04-10,a,45000.0,43.0,49.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2022-04-10,a,800.0,38.0,53.0
+Morning Consult,218,1.0,2022-04-09,a,45000.0,43.0,49.0
+RMG Research,555,0.85,2022-04-09,rv,1200.0,40.0,55.0
+Big Village,37,1.0,2022-04-08,rv,814.0,39.9,54.3
+YouGov,391,0.93,2022-04-08,a,2062.0,42.0,58.0
+Morning Consult,218,1.0,2022-04-08,a,45000.0,44.0,48.0
+TIPP,144,1.3,2022-04-08,a,1305.0,42.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-07,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2022-04-07,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-06,lv,1500.0,43.0,55.0
+RMG Research,555,0.85,2022-04-06,rv,1200.0,43.0,51.0
+Morning Consult,218,1.0,2022-04-06,a,45000.0,44.0,48.0
+Ipsos,154,1.05,2022-04-05,a,1001.0,45.11,50.15
+Morning Consult,218,1.0,2022-04-05,a,45000.0,44.0,48.0
+YouGov,391,0.93,2022-04-05,rv,1287.0,43.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-05,lv,1500.0,42.0,56.0
+Quinnipiac,267,1.0,2022-04-04,rv,1280.0,40.0,54.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-04-04,rv,998.0,45.0,52.0
+Data for Progress,522,0.93,2022-04-04,lv,1253.0,44.0,54.0
+Morning Consult,218,1.0,2022-04-04,rv,2003.0,42.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-04,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2022-04-04,a,45000.0,44.0,48.0
+YouGov,391,0.93,2022-04-04,rv,1233.0,43.0,53.0
+Morning Consult,218,1.0,2022-04-03,rv,2005.0,43.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-04-03,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2022-04-03,a,45000.0,44.0,49.0
+Redfield & Wilton Strategies,562,0.3,2022-04-03,rv,1500.0,39.0,48.0
+RMG Research,555,0.85,2022-04-03,rv,1200.0,39.0,53.0
+Morning Consult,218,1.0,2022-04-02,a,45000.0,43.0,49.0
+RMG Research,555,0.85,2022-04-02,rv,1200.0,41.0,53.0
+Morning Consult,218,1.0,2022-04-01,a,45000.0,43.0,50.0
+Climate Nexus,506,0.6,2022-03-31,rv,1965.0,44.0,53.0
+Morning Consult,218,1.0,2022-03-31,rv,2005.0,42.0,55.0
+Morning Consult,218,1.0,2022-03-31,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-03-31,a,2210.0,40.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-31,lv,1500.0,40.0,58.0
+SurveyMonkey,324,0.75,2022-03-31,a,59949.0,43.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-30,lv,1500.0,42.0,57.0
+RMG Research,555,0.85,2022-03-30,rv,1200.0,40.0,56.0
+Morning Consult,218,1.0,2022-03-30,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-29,lv,1500.0,41.0,58.0
+Marist,183,1.0,2022-03-29,rv,1046.0,39.0,55.0
+Morning Consult,218,1.0,2022-03-29,a,45000.0,42.0,50.0
+YouGov,391,0.93,2022-03-29,rv,1313.0,45.0,49.0
+Ipsos,154,1.05,2022-03-29,a,1005.0,41.99,52.04
+Morning Consult,218,1.0,2022-03-28,a,45000.0,42.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-28,lv,1500.0,43.0,56.0
+Quinnipiac,267,1.0,2022-03-28,rv,1286.0,38.0,55.0
+Morning Consult,218,1.0,2022-03-27,rv,2006.0,42.0,54.0
+Morning Consult,218,1.0,2022-03-27,a,45000.0,42.0,50.0
+RMG Research,555,0.85,2022-03-27,rv,1200.0,42.0,53.0
+Research Co.,449,1.0,2022-03-27,a,1000.0,42.0,52.0
+Big Village,37,1.0,2022-03-27,rv,839.0,46.8,49.9
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-27,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2022-03-26,a,45000.0,41.0,51.0
+co/efficient,514,1.08,2022-03-25,lv,963.0,37.0,56.0
+Morning Consult,218,1.0,2022-03-25,a,45000.0,41.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-24,lv,1500.0,42.0,57.0
+Momentive,324,0.75,2022-03-24,a,3953.0,45.0,52.0
+Marquette Law School,195,1.08,2022-03-24,a,1004.0,44.0,55.0
+Harris Poll,133,1.05,2022-03-24,rv,1990.0,39.0,55.0
+Morning Consult,218,1.0,2022-03-24,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-23,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-03-23,a,45000.0,41.0,50.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2022-03-22,rv,790.0,41.0,54.0
+YouGov,391,0.93,2022-03-22,rv,1270.0,45.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-22,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-03-22,a,45000.0,41.0,50.0
+NewsNation/Decision Desk HQ,696,0.6,2022-03-22,rv,1086.0,44.03,55.97
+Ipsos,154,1.05,2022-03-22,a,1005.0,39.96,54.43
+McLaughlin,203,0.4,2022-03-22,lv,1000.0,41.0,57.0
+AP-NORC,397,0.6,2022-03-21,a,1082.0,43.0,56.0
+Morning Consult,218,1.0,2022-03-21,a,45000.0,41.0,51.0
+Beacon Research/Shaw & Company,103,1.0,2022-03-21,rv,1004.0,45.0,54.0
+U. Massachusetts - Lowell,355,1.0,2022-03-21,a,1000.0,43.0,57.0
+Echelon Insights,407,0.9,2022-03-21,lv,1050.0,45.0,53.0
+Morning Consult,218,1.0,2022-03-21,a,2211.0,38.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-21,lv,1500.0,41.0,58.0
+YouGov,391,0.93,2022-03-21,rv,2000.0,42.67,57.33
+Morning Consult,218,1.0,2022-03-21,rv,2005.0,42.0,55.0
+Emerson College Polling Society,88,1.05,2022-03-20,rv,1023.0,42.7,48.6
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-03-20,rv,1000.0,44.0,52.0
+Morning Consult,218,1.0,2022-03-20,a,45000.0,41.0,51.0
+Redfield & Wilton Strategies,562,0.3,2022-03-20,rv,1500.0,39.0,45.0
+Leger,572,0.9,2022-03-20,a,1000.0,47.0,51.0
+Selzer,304,1.3,2022-03-20,a,1002.0,34.0,52.0
+American Research Group,9,0.75,2022-03-20,rv,994.0,46.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-20,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2022-03-19,a,45000.0,41.0,51.0
+Gallup,112,1.05,2022-03-18,a,1017.0,42.0,54.0
+Morning Consult,218,1.0,2022-03-18,a,4419.0,41.0,54.0
+Morning Consult,218,1.0,2022-03-18,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-17,lv,1500.0,38.0,60.0
+Morning Consult,218,1.0,2022-03-17,a,2210.0,43.0,53.0
+Morning Consult,218,1.0,2022-03-17,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-16,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-03-16,a,45000.0,41.0,51.0
+Ipsos,154,1.05,2022-03-15,a,1005.0,42.66,53.46
+YouGov,391,0.93,2022-03-15,rv,1292.0,41.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-15,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-03-15,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-03-14,rv,2005.0,41.0,56.0
+Quinnipiac,267,1.0,2022-03-14,rv,1754.0,40.0,53.0
+SocialSphere,307,0.6,2022-03-14,rv,6565.0,41.0,54.0
+YouGov,391,0.93,2022-03-14,rv,1225.0,45.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-14,lv,1500.0,42.0,56.0
+Monmouth U.,215,1.0,2022-03-14,rv,746.0,39.0,55.0
+Morning Consult,218,1.0,2022-03-14,a,2210.0,40.0,54.0
+Morning Consult,218,1.0,2022-03-14,a,45000.0,41.0,51.0
+Winston,385,0.9,2022-03-14,rv,1000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-13,lv,1500.0,40.0,58.0
+Pew,253,0.9,2022-03-13,a,10441.0,43.0,55.0
+Morning Consult,218,1.0,2022-03-13,a,45000.0,41.0,51.0
+Saint Leo U.,299,0.3,2022-03-12,a,1000.0,44.8,53.0
+Morning Consult,218,1.0,2022-03-12,a,45000.0,42.0,51.0
+YouGov,391,0.93,2022-03-11,a,2088.0,43.0,57.0
+Big Village,37,1.0,2022-03-11,rv,823.0,42.2,53.3
+Morning Consult,218,1.0,2022-03-11,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-10,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-03-10,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-03-09,a,45000.0,42.0,50.0
+Trafalgar Group,338,1.05,2022-03-09,lv,1080.0,41.8,52.4
+Momentive,324,0.75,2022-03-09,a,16901.0,45.0,54.0
+Schoen Cooperman,301,0.9,2022-03-09,lv,800.0,45.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-09,lv,1500.0,39.0,60.0
+Redfield & Wilton Strategies,562,0.3,2022-03-08,rv,1500.0,37.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-08,lv,1500.0,41.0,57.0
+YouGov,391,0.93,2022-03-08,rv,1227.0,45.0,49.0
+Ipsos,154,1.05,2022-03-08,a,1005.0,44.92,48.7
+InsiderAdvantage,243,0.93,2022-03-08,lv,750.0,42.0,54.0
+Morning Consult,218,1.0,2022-03-08,a,45000.0,42.0,50.0
+Fabrizio/Impact,694,0.6,2022-03-07,rv,1500.0,42.0,57.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-03-07,rv,1000.0,45.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-07,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-03-07,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-03-07,rv,2005.0,46.0,51.0
+Morning Consult,218,1.0,2022-03-07,rv,2005.0,46.0,51.0
+Morning Consult,218,1.0,2022-03-06,a,45000.0,42.0,50.0
+Quinnipiac,267,1.0,2022-03-06,rv,1234.0,40.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-06,lv,1500.0,44.0,54.0
+Leger,572,0.9,2022-03-06,a,1003.0,48.0,49.0
+Morning Consult,218,1.0,2022-03-06,rv,2005.0,45.0,51.0
+Morning Consult,218,1.0,2022-03-05,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-03-05,a,4420.0,45.0,50.0
+TIPP,144,1.3,2022-03-04,a,1318.0,39.0,47.0
+Morning Consult,218,1.0,2022-03-04,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-03,lv,1500.0,42.0,55.0
+"Cor Services, Inc.",688,0.6,2022-03-03,lv,524.0,47.0,48.0
+Morning Consult,218,1.0,2022-03-03,a,45000.0,42.0,50.0
+Marist,183,1.0,2022-03-02,rv,1237.0,47.0,51.0
+Morning Consult,218,1.0,2022-03-02,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-02,lv,1500.0,44.0,54.0
+Morning Consult,218,1.0,2022-03-01,a,45000.0,42.0,50.0
+YouGov,391,0.93,2022-03-01,rv,1205.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-03-01,lv,1500.0,42.0,56.0
+Ipsos,154,1.05,2022-03-01,a,1005.0,42.59,54.06
+SurveyMonkey,324,0.75,2022-02-28,a,42230.0,43.0,54.0
+YouGov,391,0.93,2022-02-28,a,2238.0,44.0,56.0
+Morning Consult,218,1.0,2022-02-28,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-28,lv,1500.0,41.0,57.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-27,lv,1500.0,40.0,59.0
+Quinnipiac,267,1.0,2022-02-27,rv,1223.0,38.0,52.0
+YouGov,391,0.93,2022-02-27,rv,1168.0,41.0,55.0
+Morning Consult,218,1.0,2022-02-27,a,2210.0,42.0,54.0
+Morning Consult,218,1.0,2022-02-27,rv,2004.0,41.0,56.0
+Morning Consult,218,1.0,2022-02-27,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-02-26,rv,2002.0,44.0,54.0
+Morning Consult,218,1.0,2022-02-26,a,45000.0,42.0,50.0
+YouGov Blue,391,0.93,2022-02-25,rv,1007.0,41.0,55.0
+Morning Consult,218,1.0,2022-02-25,a,45000.0,42.0,50.0
+Big Village,37,1.0,2022-02-25,rv,811.0,42.6,50.3
+ABC/Washington Post,3,1.2,2022-02-24,a,1011.0,37.0,55.0
+NewsNation/Decision Desk HQ,696,0.6,2022-02-24,rv,1046.0,42.8,57.2
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-24,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2022-02-24,a,45000.0,42.0,50.0
+Harris Poll,133,1.05,2022-02-24,rv,2026.0,38.0,55.0
+Morning Consult,218,1.0,2022-02-24,rv,1717.0,47.0,51.0
+Ipsos,154,1.05,2022-02-23,a,1004.0,43.07,53.07
+Redfield & Wilton Strategies,562,0.3,2022-02-23,rv,1500.0,39.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-23,lv,1500.0,42.0,57.0
+Echelon Insights,407,0.9,2022-02-23,rv,1078.0,44.0,53.0
+Bullfinch,692,0.6,2022-02-23,rv,1044.0,45.0,52.0
+Morning Consult,218,1.0,2022-02-23,a,45000.0,42.0,50.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-02-22,rv,1395.0,43.0,55.0
+McLaughlin,203,0.4,2022-02-22,lv,1000.0,41.0,57.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-22,lv,1500.0,45.0,55.0
+Beacon Research/Shaw & Company,103,1.0,2022-02-22,rv,1001.0,43.0,56.0
+YouGov,391,0.93,2022-02-22,rv,1290.0,44.0,50.0
+Morning Consult,218,1.0,2022-02-22,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-02-21,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-21,lv,1500.0,46.0,53.0
+AP-NORC,397,0.6,2022-02-21,a,1289.0,44.0,55.0
+Marist,183,1.0,2022-02-21,rv,1079.0,40.0,55.0
+Morning Consult,218,1.0,2022-02-21,rv,2005.0,45.0,53.0
+Morning Consult,218,1.0,2022-02-20,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-02-20,rv,2005.0,45.0,51.0
+American Research Group,9,0.75,2022-02-20,rv,995.0,45.0,51.0
+Suffolk,323,1.0,2022-02-20,rv,1000.0,39.4,56.6
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-20,lv,1500.0,45.0,54.0
+Emerson College Polling Society,88,1.05,2022-02-20,rv,1138.0,42.0,49.7
+Morning Consult,218,1.0,2022-02-20,rv,2005.0,44.0,52.0
+Morning Consult,218,1.0,2022-02-20,rv,4009.0,44.0,53.0
+Morning Consult,218,1.0,2022-02-19,a,45000.0,41.0,50.0
+YouGov,391,0.93,2022-02-18,a,2484.0,43.0,57.0
+Morning Consult,218,1.0,2022-02-18,a,45000.0,41.0,50.0
+Morning Consult,218,1.0,2022-02-17,a,45000.0,41.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-17,lv,1500.0,43.0,56.0
+Gallup,112,1.05,2022-02-17,a,1008.0,41.0,55.0
+Tarrance,333,0.93,2022-02-17,rv,800.0,41.0,53.0
+Morning Consult,218,1.0,2022-02-16,a,45000.0,41.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-16,lv,1500.0,41.0,58.0
+Trafalgar Group,338,1.05,2022-02-16,lv,1078.0,39.1,58.2
+Winston,385,0.9,2022-02-16,rv,1000.0,43.0,47.0
+YouGov,391,0.93,2022-02-15,rv,1231.0,42.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-15,lv,1500.0,41.0,58.0
+Ipsos,154,1.05,2022-02-15,a,1005.0,44.26,50.81
+Morning Consult,218,1.0,2022-02-15,a,45000.0,41.0,50.0
+Morning Consult,218,1.0,2022-02-14,a,45000.0,41.0,50.0
+Quinnipiac,267,1.0,2022-02-14,rv,1172.0,37.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-14,lv,1500.0,40.0,59.0
+Morning Consult,218,1.0,2022-02-13,rv,2005.0,43.0,53.0
+Morning Consult,218,1.0,2022-02-13,a,2210.0,42.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-13,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2022-02-13,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-02-12,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-02-11,a,45000.0,42.0,50.0
+YouGov,391,0.93,2022-02-11,a,2578.0,44.0,56.0
+Big Village,37,1.0,2022-02-11,rv,813.0,43.6,52.2
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-10,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2022-02-10,a,45000.0,41.0,50.0
+Morning Consult,218,1.0,2022-02-10,a,2210.0,44.0,51.0
+Susquehanna,326,0.93,2022-02-09,lv,800.0,42.0,52.0
+Morning Consult,218,1.0,2022-02-09,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-09,lv,1500.0,43.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-08,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2022-02-08,a,45000.0,41.0,51.0
+YouGov,391,0.93,2022-02-08,rv,1255.0,41.0,51.0
+POS,260,1.0,2022-02-08,rv,1000.0,43.0,54.0
+Ipsos,154,1.05,2022-02-08,a,1005.0,43.18,50.65
+Morning Consult,218,1.0,2022-02-07,rv,2005.0,43.0,55.0
+YouGov,391,0.93,2022-02-07,rv,1230.0,45.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-07,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2022-02-07,a,45000.0,41.0,51.0
+Ipsos,154,1.05,2022-02-07,a,4404.0,45.0,52.0
+SurveyMonkey,324,0.75,2022-02-07,a,7590.0,44.0,53.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-02-07,rv,1000.0,43.0,55.0
+Morning Consult,218,1.0,2022-02-06,a,45000.0,41.0,51.0
+Leger,572,0.9,2022-02-06,a,1005.0,42.0,55.0
+SSRS,297,0.65,2022-02-06,rv,1257.0,42.0,57.0
+Redfield & Wilton Strategies,562,0.3,2022-02-06,rv,1500.0,38.0,48.0
+Morning Consult,218,1.0,2022-02-06,a,2209.0,45.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-06,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2022-02-06,rv,2005.0,41.0,55.0
+Morning Consult,218,1.0,2022-02-05,a,45000.0,40.0,51.0
+TIPP,144,1.3,2022-02-04,a,1355.0,38.0,48.0
+Morning Consult,218,1.0,2022-02-04,a,45000.0,41.0,51.0
+Ipsos,154,1.05,2022-02-03,a,1005.0,40.6,56.29
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-03,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2022-02-03,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-02-02,a,2210.0,42.0,52.0
+Morning Consult,218,1.0,2022-02-02,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-02,lv,1500.0,41.0,57.0
+YouGov,391,0.93,2022-02-01,rv,1273.0,45.0,49.0
+Morning Consult,218,1.0,2022-02-01,a,45000.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-02-01,lv,1500.0,39.0,59.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-31,lv,1500.0,39.0,59.0
+SurveyMonkey,324,0.75,2022-01-31,a,50813.0,44.0,54.0
+Morning Consult,218,1.0,2022-01-31,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-01-30,rv,2005.0,43.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-30,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2022-01-30,a,45000.0,41.0,51.0
+PPP,263,1.0,2022-01-29,rv,662.0,40.0,49.0
+Morning Consult,218,1.0,2022-01-29,a,45000.0,41.0,51.0
+Morning Consult,218,1.0,2022-01-28,a,45000.0,41.0,51.0
+Big Village,37,1.0,2022-01-28,rv,808.0,42.5,54.3
+Ipsos,154,1.05,2022-01-27,a,1002.0,45.32,50.48
+Morning Consult,218,1.0,2022-01-27,a,45000.0,41.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-27,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2022-01-26,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-26,lv,1500.0,42.0,57.0
+YouGov,391,0.93,2022-01-25,rv,1249.0,41.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-25,lv,1500.0,39.0,60.0
+Morning Consult,218,1.0,2022-01-25,a,45000.0,42.0,50.0
+Monmouth U.,215,1.0,2022-01-24,rv,735.0,38.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-24,lv,1500.0,40.0,59.0
+Morning Consult,218,1.0,2022-01-24,a,45000.0,42.0,50.0
+Zogby,395,0.85,2022-01-24,lv,897.0,44.3,49.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-01-24,rv,1000.0,46.0,52.0
+Momentive,324,0.75,2022-01-24,a,12136.0,45.0,53.0
+YouGov,391,0.93,2022-01-24,rv,1189.0,41.0,54.0
+Morning Consult,218,1.0,2022-01-23,rv,2005.0,42.0,55.0
+Morning Consult,218,1.0,2022-01-23,a,2211.0,43.0,50.0
+InsiderAdvantage,243,0.93,2022-01-23,lv,850.0,40.0,59.0
+Echelon Insights,407,0.9,2022-01-23,rv,1029.0,46.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-23,lv,1500.0,40.0,59.0
+Morning Consult,218,1.0,2022-01-23,rv,2005.0,41.0,56.0
+Morning Consult,218,1.0,2022-01-23,a,2210.0,41.0,53.0
+Morning Consult,218,1.0,2022-01-23,a,45000.0,42.0,50.0
+Leger,572,0.9,2022-01-23,a,1000.0,42.0,56.0
+Morning Consult,218,1.0,2022-01-23,rv,2005.0,41.0,56.0
+Morning Consult,218,1.0,2022-01-22,a,45000.0,43.0,49.0
+Marquette Law School,195,1.08,2022-01-21,a,1000.0,46.0,53.0
+Morning Consult,218,1.0,2022-01-21,a,45000.0,43.0,49.0
+Morning Consult,218,1.0,2022-01-20,a,45000.0,43.0,49.0
+Ipsos,154,1.05,2022-01-20,a,1004.0,43.27,51.55
+Harris Poll,133,1.05,2022-01-20,rv,1815.0,39.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-20,lv,1500.0,41.0,58.0
+American Research Group,9,0.75,2022-01-20,rv,994.0,43.0,53.0
+Morning Consult,218,1.0,2022-01-19,a,45000.0,43.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-19,lv,1500.0,40.0,58.0
+RMG Research,555,0.85,2022-01-19,rv,1200.0,42.0,52.0
+Beacon Research/Shaw & Company,103,1.0,2022-01-19,rv,1001.0,47.0,52.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2022-01-18,rv,790.0,44.0,54.0
+AP-NORC,397,0.6,2022-01-18,a,1161.0,43.0,56.0
+McLaughlin,203,0.4,2022-01-18,lv,1000.0,41.0,57.0
+Morning Consult,218,1.0,2022-01-18,a,45000.0,43.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-18,lv,1500.0,41.0,58.0
+YouGov,391,0.93,2022-01-18,rv,1162.0,42.0,53.0
+Morning Consult,218,1.0,2022-01-17,a,45000.0,43.0,49.0
+Pew,253,0.9,2022-01-17,a,5128.0,41.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-17,lv,1500.0,41.0,58.0
+Echelon Insights,407,0.9,2022-01-17,rv,1000.0,45.0,52.0
+Morning Consult,218,1.0,2022-01-16,a,45000.0,43.0,49.0
+Morning Consult,218,1.0,2022-01-16,rv,2005.0,40.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-16,lv,1500.0,39.0,60.0
+Gallup,112,1.05,2022-01-16,a,811.0,40.0,56.0
+Morning Consult,218,1.0,2022-01-16,a,2210.0,41.0,52.0
+Morning Consult,218,1.0,2022-01-16,a,4411.0,43.0,52.0
+Morning Consult,218,1.0,2022-01-15,a,45000.0,43.0,49.0
+RMG Research,555,0.85,2022-01-15,rv,1200.0,44.0,50.0
+Morning Consult,218,1.0,2022-01-15,a,2211.0,44.0,49.0
+Morning Consult,218,1.0,2022-01-15,a,2210.0,44.0,51.0
+Trafalgar Group,338,1.05,2022-01-15,lv,1083.0,38.7,59.2
+YouGov,391,0.93,2022-01-14,a,2094.0,44.0,56.0
+YouGov Blue,391,0.93,2022-01-14,rv,1055.0,40.0,55.0
+Morning Consult,218,1.0,2022-01-14,a,45000.0,43.0,49.0
+Big Village,37,1.0,2022-01-14,rv,831.0,44.0,51.8
+Morning Consult,218,1.0,2022-01-14,a,2210.0,44.0,50.0
+Morning Consult,218,1.0,2022-01-13,a,45000.0,43.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-13,lv,1500.0,38.0,60.0
+Ipsos,154,1.05,2022-01-13,a,1005.0,44.75,49.55
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-12,lv,1500.0,39.0,59.0
+Morning Consult,218,1.0,2022-01-12,a,45000.0,43.0,49.0
+RMG Research,555,0.85,2022-01-12,rv,1200.0,40.0,53.0
+YouGov,391,0.93,2022-01-11,rv,1258.0,45.0,51.0
+Morning Consult,218,1.0,2022-01-11,a,45000.0,43.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-11,lv,1500.0,40.0,58.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-10,lv,1500.0,40.0,59.0
+Quinnipiac,267,1.0,2022-01-10,rv,1178.0,35.0,54.0
+Morning Consult,218,1.0,2022-01-10,a,45000.0,43.0,49.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2022-01-10,rv,1000.0,47.0,51.0
+NewsNation/Decision Desk HQ,696,0.6,2022-01-10,rv,1013.0,42.1,57.7
+Morning Consult,218,1.0,2022-01-09,a,2201.0,45.0,49.0
+Redfield & Wilton Strategies,562,0.3,2022-01-09,rv,1500.0,39.0,44.0
+Morning Consult,218,1.0,2022-01-09,a,2200.0,43.0,51.0
+Morning Consult,218,1.0,2022-01-09,rv,2000.0,44.0,53.0
+TIPP,144,1.3,2022-01-09,a,1308.0,44.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-09,lv,1500.0,41.0,59.0
+Morning Consult,218,1.0,2022-01-09,a,45000.0,43.0,49.0
+Morning Consult,218,1.0,2022-01-08,a,45000.0,43.0,49.0
+Morning Consult,218,1.0,2022-01-07,a,45000.0,43.0,49.0
+RMG Research,555,0.85,2022-01-07,rv,1200.0,41.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-06,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-01-06,a,45000.0,43.0,49.0
+Ipsos,154,1.05,2022-01-06,a,1000.0,45.15,50.55
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-05,lv,1500.0,43.0,57.0
+Morning Consult,218,1.0,2022-01-05,a,2200.0,43.0,50.0
+Morning Consult,218,1.0,2022-01-05,a,45000.0,42.0,50.0
+RMG Research,555,0.85,2022-01-04,rv,1200.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-04,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2022-01-04,a,45000.0,42.0,50.0
+Winston,385,0.9,2022-01-04,rv,1000.0,46.0,44.0
+YouGov,391,0.93,2022-01-04,rv,1201.0,43.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-03,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2022-01-03,a,45000.0,42.0,50.0
+Morning Consult,218,1.0,2022-01-02,a,45000.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2022-01-02,lv,1500.0,40.0,59.0
+Morning Consult,218,1.0,2022-01-01,a,45000.0,43.0,50.0
+SurveyMonkey,324,0.75,2021-12-31,rv,32434.0,44.0,55.0
+Morning Consult,218,1.0,2021-12-31,a,45000.0,43.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-30,lv,1500.0,42.0,57.0
+Suffolk,323,1.0,2021-12-30,rv,1000.0,40.2,54.3
+Morning Consult,218,1.0,2021-12-30,a,45000.0,43.0,49.0
+Morning Consult,218,1.0,2021-12-29,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-29,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-12-29,rv,2000.0,43.0,54.0
+Morning Consult,218,1.0,2021-12-28,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-28,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2021-12-27,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-27,lv,1500.0,41.0,58.0
+Morning Consult,218,1.0,2021-12-26,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-26,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2021-12-25,a,45000.0,44.0,48.0
+Morning Consult,218,1.0,2021-12-24,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-12-23,a,45000.0,45.0,48.0
+RMG Research,555,0.85,2021-12-22,rv,1200.0,41.0,53.0
+Morning Consult,218,1.0,2021-12-22,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-22,lv,1500.0,41.0,57.0
+Zogby,395,0.85,2021-12-22,lv,1311.0,49.7,48.4
+Trafalgar Group,338,1.05,2021-12-21,lv,1073.0,40.4,55.9
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-21,lv,1500.0,42.0,57.0
+YouGov,391,0.93,2021-12-21,rv,1315.0,42.0,50.0
+Morning Consult,218,1.0,2021-12-21,a,45000.0,45.0,48.0
+American Research Group,9,0.75,2021-12-20,rv,993.0,46.0,49.0
+Morning Consult,218,1.0,2021-12-20,a,45000.0,45.0,48.0
+YouGov,391,0.93,2021-12-20,a,1000.0,41.0,53.0
+Morning Consult,218,1.0,2021-12-20,rv,2000.0,44.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-20,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2021-12-20,rv,1998.0,43.0,53.0
+Change Research,48,0.85,2021-12-20,rv,1895.0,44.0,56.0
+Morning Consult,218,1.0,2021-12-19,rv,2000.0,47.0,50.0
+InsiderAdvantage,243,0.93,2021-12-19,rv,750.0,41.0,58.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-19,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2021-12-19,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-12-18,a,45000.0,44.0,48.0
+Redfield & Wilton Strategies,562,0.3,2021-12-18,rv,1500.0,41.0,44.0
+RMG Research,555,0.85,2021-12-17,rv,1200.0,41.0,53.0
+John Zogby Strategies,583,0.9,2021-12-17,lv,777.0,46.3,52.1
+Ipsos,154,1.05,2021-12-17,a,1004.0,48.0,46.0
+Morning Consult,218,1.0,2021-12-17,a,45000.0,44.0,48.0
+Ipsos,154,1.05,2021-12-17,a,4407.0,48.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-16,lv,1500.0,41.0,58.0
+Gallup,112,1.05,2021-12-16,a,811.0,43.0,51.0
+Morning Consult,218,1.0,2021-12-16,a,45000.0,44.0,48.0
+RMG Research,555,0.85,2021-12-15,rv,1200.0,42.0,52.0
+Morning Consult,218,1.0,2021-12-15,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-15,lv,1500.0,40.0,58.0
+Morning Consult,218,1.0,2021-12-14,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-14,lv,1500.0,42.0,56.0
+Beacon Research/Shaw & Company,103,1.0,2021-12-14,rv,1002.0,47.0,51.0
+YouGov,391,0.93,2021-12-14,rv,1267.0,43.0,51.0
+Morning Consult,218,1.0,2021-12-13,a,45000.0,44.0,48.0
+YouGov,391,0.93,2021-12-13,rv,1163.0,42.0,54.0
+Marist,183,1.0,2021-12-13,rv,1310.0,42.0,55.0
+Morning Consult,218,1.0,2021-12-13,rv,1998.0,46.0,51.0
+Echelon Insights,407,0.9,2021-12-13,rv,1020.0,48.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-13,lv,1500.0,41.0,57.0
+SSRS,297,0.65,2021-12-12,rv,,48.0,52.0
+Morning Consult,218,1.0,2021-12-12,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-12,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-12-11,a,45000.0,44.0,48.0
+Morning Consult,218,1.0,2021-12-10,a,45000.0,44.0,49.0
+Ipsos,154,1.05,2021-12-10,a,1004.0,48.13,48.22
+RMG Research,555,0.85,2021-12-10,rv,1200.0,41.0,53.0
+Schoen Cooperman,301,0.9,2021-12-09,lv,800.0,46.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-09,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-12-09,a,45000.0,44.0,49.0
+Morning Consult,218,1.0,2021-12-09,a,2200.0,49.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-08,lv,1500.0,42.0,56.0
+RMG Research,555,0.85,2021-12-08,rv,1200.0,45.0,49.0
+Morning Consult,218,1.0,2021-12-08,a,45000.0,44.0,48.0
+Morning Consult,218,1.0,2021-12-07,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-07,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2021-12-07,a,2200.0,47.0,47.0
+HarrisX,133,1.05,2021-12-07,rv,926.0,45.0,50.0
+McCourtney Institute/YouGov,391,0.93,2021-12-07,a,1200.0,45.0,55.0
+AP-NORC,397,0.6,2021-12-07,a,1089.0,48.0,51.0
+YouGov,391,0.93,2021-12-07,rv,1265.0,42.0,53.0
+Morning Consult,218,1.0,2021-12-06,rv,2000.0,45.0,51.0
+Marist,183,1.0,2021-12-06,rv,1062.0,43.0,51.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-12-06,rv,1000.0,45.0,52.0
+Morning Consult,218,1.0,2021-12-06,a,2200.0,48.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-06,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2021-12-06,a,45000.0,44.0,49.0
+Morning Consult,218,1.0,2021-12-06,a,2200.0,50.0,46.0
+Morning Consult,218,1.0,2021-12-06,a,2200.0,47.0,49.0
+Monmouth U.,215,1.0,2021-12-06,rv,753.0,40.0,50.0
+Morning Consult,218,1.0,2021-12-06,a,2200.0,47.0,49.0
+Morning Consult,218,1.0,2021-12-05,a,45000.0,44.0,49.0
+Leger,572,0.9,2021-12-05,a,1004.0,44.0,55.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-05,lv,1500.0,42.0,56.0
+Redfield & Wilton Strategies,562,0.3,2021-12-05,rv,1500.0,37.0,45.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-12-04,a,800.0,41.0,50.0
+Morning Consult,218,1.0,2021-12-04,a,45000.0,44.0,49.0
+TIPP,144,1.3,2021-12-04,a,1301.0,43.0,43.0
+Morning Consult,218,1.0,2021-12-03,a,45000.0,44.0,49.0
+RMG Research,555,0.85,2021-12-03,rv,1200.0,46.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-02,lv,1500.0,42.0,57.0
+Harris Poll,133,1.05,2021-12-02,rv,1989.0,45.0,51.0
+Ipsos,154,1.05,2021-12-02,a,1005.0,45.83,48.65
+Morning Consult,218,1.0,2021-12-02,a,45000.0,44.0,49.0
+Morning Consult,218,1.0,2021-12-01,a,45000.0,44.0,49.0
+"Cor Services, Inc.",688,0.6,2021-12-01,lv,523.0,42.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-12-01,lv,1500.0,43.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-30,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-11-30,a,45000.0,44.0,49.0
+RMG Research,555,0.85,2021-11-30,rv,1200.0,43.0,52.0
+SurveyMonkey,324,0.75,2021-11-30,rv,67121.0,44.0,55.0
+Morning Consult,218,1.0,2021-11-30,a,2200.0,46.0,48.0
+YouGov,391,0.93,2021-11-30,rv,1272.0,44.0,50.0
+Morning Consult,218,1.0,2021-11-30,rv,18914.0,45.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-29,lv,1500.0,43.0,56.0
+Trafalgar Group,338,1.05,2021-11-29,lv,1082.0,36.3,59.1
+Morning Consult,218,1.0,2021-11-29,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-28,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2021-11-28,a,45000.0,44.0,49.0
+Morning Consult,218,1.0,2021-11-27,a,45000.0,44.0,48.0
+Morning Consult,218,1.0,2021-11-27,a,2200.0,46.0,49.0
+Morning Consult,218,1.0,2021-11-26,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-11-25,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-11-24,a,45000.0,44.0,48.0
+Winston,385,0.9,2021-11-24,rv,1000.0,42.0,47.0
+Morning Consult,218,1.0,2021-11-23,a,45000.0,44.0,48.0
+RMG Research,555,0.85,2021-11-23,rv,1200.0,43.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-23,lv,1500.0,41.0,58.0
+YouGov,391,0.93,2021-11-23,rv,1249.0,45.0,50.0
+Morning Consult,218,1.0,2021-11-22,rv,1999.0,44.0,52.0
+Morning Consult,218,1.0,2021-11-22,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-22,lv,1500.0,41.0,58.0
+Fabrizio/Impact,694,0.6,2021-11-22,rv,1500.0,41.0,57.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-11-22,rv,1000.0,43.0,54.0
+Morning Consult,218,1.0,2021-11-21,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-11-21,a,2200.0,47.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-21,lv,1500.0,41.0,58.0
+POS,260,1.0,2021-11-21,rv,1000.0,47.0,53.0
+Morning Consult,218,1.0,2021-11-21,a,2199.0,47.0,48.0
+Leger,572,0.9,2021-11-21,a,1001.0,44.0,53.0
+American Research Group,9,0.75,2021-11-20,rv,993.0,44.0,50.0
+Morning Consult,218,1.0,2021-11-20,a,45000.0,44.0,48.0
+YouGov,391,0.93,2021-11-19,a,2058.0,44.0,56.0
+Morning Consult,218,1.0,2021-11-19,a,45000.0,44.0,49.0
+Marist,183,1.0,2021-11-19,rv,969.0,43.0,50.0
+YouGov,391,0.93,2021-11-19,rv,1305.0,44.0,53.0
+Ipsos,154,1.05,2021-11-18,a,1003.0,44.49,49.06
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-18,lv,1500.0,41.0,58.0
+Echelon Insights,407,0.9,2021-11-18,lv,839.0,47.0,51.0
+Morning Consult,218,1.0,2021-11-18,a,45000.0,44.0,49.0
+RMG Research,555,0.85,2021-11-18,rv,1200.0,44.0,52.0
+HarrisX,133,1.05,2021-11-18,rv,2787.0,44.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-17,lv,1500.0,41.0,59.0
+Morning Consult,218,1.0,2021-11-17,a,45000.0,44.0,49.0
+Beacon Research/Shaw & Company,103,1.0,2021-11-17,rv,1003.0,44.0,54.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-16,lv,1500.0,41.0,58.0
+RMG Research,555,0.85,2021-11-16,rv,1200.0,41.0,53.0
+McLaughlin,203,0.4,2021-11-16,lv,1000.0,42.0,56.0
+Morning Consult,218,1.0,2021-11-16,a,45000.0,44.0,48.0
+Gallup,112,1.05,2021-11-16,a,815.0,42.0,55.0
+YouGov,391,0.93,2021-11-16,rv,1299.0,43.0,51.0
+Morning Consult,218,1.0,2021-11-15,rv,1998.0,44.0,53.0
+Morning Consult,218,1.0,2021-11-15,a,45000.0,44.0,49.0
+Quinnipiac,267,1.0,2021-11-15,rv,1262.0,38.0,53.0
+Redfield & Wilton Strategies,562,0.3,2021-11-15,rv,1500.0,37.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-15,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2021-11-15,a,2200.0,43.0,50.0
+Morning Consult,218,1.0,2021-11-14,a,2200.0,46.0,49.0
+Bullfinch,692,0.6,2021-11-14,rv,1000.0,44.0,53.0
+Morning Consult,218,1.0,2021-11-14,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-14,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-11-13,a,45000.0,44.0,49.0
+Winston,385,0.9,2021-11-12,rv,1000.0,45.0,47.0
+Morning Consult,218,1.0,2021-11-12,a,45000.0,44.0,48.0
+Morning Consult,218,1.0,2021-11-11,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-11,lv,1500.0,42.0,57.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-10,lv,1500.0,41.0,58.0
+Marquette Law School,195,1.08,2021-11-10,a,1004.0,49.0,51.0
+Morning Consult,218,1.0,2021-11-10,a,45000.0,44.0,49.0
+Ipsos,154,1.05,2021-11-10,a,1004.0,45.57,48.97
+ABC/Washington Post,3,1.2,2021-11-10,rv,882.0,38.0,57.0
+Morning Consult,218,1.0,2021-11-09,a,45000.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-09,lv,1500.0,40.0,59.0
+RMG Research,555,0.85,2021-11-09,rv,1200.0,40.0,55.0
+Susquehanna,326,0.93,2021-11-09,lv,800.0,36.0,52.0
+YouGov,391,0.93,2021-11-09,rv,1258.0,45.0,49.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-11-08,rv,1003.0,47.0,50.0
+Monmouth U.,215,1.0,2021-11-08,rv,726.0,43.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-08,lv,1500.0,40.0,59.0
+Morning Consult,218,1.0,2021-11-08,a,45000.0,44.0,48.0
+YouGov,391,0.93,2021-11-08,a,1673.0,42.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-07,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2021-11-07,a,2200.0,46.0,49.0
+Leger,572,0.9,2021-11-07,a,1006.0,45.0,54.0
+Morning Consult,218,1.0,2021-11-07,rv,1998.0,46.0,51.0
+Morning Consult,218,1.0,2021-11-07,a,2197.0,49.0,45.0
+Morning Consult,218,1.0,2021-11-07,a,45000.0,44.0,49.0
+RMG Research,555,0.85,2021-11-07,rv,1200.0,44.0,50.0
+Morning Consult,218,1.0,2021-11-06,a,45000.0,44.0,49.0
+Morning Consult,218,1.0,2021-11-05,a,45000.0,44.0,48.0
+Suffolk,323,1.0,2021-11-05,rv,1000.0,37.8,59.0
+Morning Consult,218,1.0,2021-11-05,a,2200.0,46.0,50.0
+Morning Consult,218,1.0,2021-11-04,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-04,lv,1500.0,43.0,55.0
+Emerson College Polling Society,88,1.05,2021-11-04,rv,1000.0,41.3,50.4
+SSRS,297,0.65,2021-11-04,rv,859.0,45.0,54.0
+Ipsos,154,1.05,2021-11-04,a,1005.0,48.13,46.52
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-03,lv,1500.0,44.0,54.0
+Morning Consult,218,1.0,2021-11-03,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-02,lv,1500.0,44.0,55.0
+YouGov,391,0.93,2021-11-02,rv,1303.0,44.0,51.0
+Morning Consult,218,1.0,2021-11-02,a,45000.0,44.0,48.0
+Morning Consult,218,1.0,2021-11-01,a,45000.0,44.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-11-01,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-11-01,rv,1996.0,45.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-31,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2021-10-31,a,45000.0,45.0,48.0
+Redfield & Wilton Strategies,562,0.3,2021-10-31,rv,1500.0,40.0,44.0
+SurveyMonkey,324,0.75,2021-10-31,rv,113685.0,45.0,54.0
+RMG Research,555,0.85,2021-10-30,rv,1200.0,46.0,49.0
+Morning Consult,218,1.0,2021-10-30,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-10-29,a,45000.0,45.0,48.0
+TIPP,144,1.3,2021-10-29,a,1306.0,40.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-28,lv,1500.0,42.0,57.0
+Harris Poll,133,1.05,2021-10-28,rv,1688.0,43.0,52.0
+Ipsos,154,1.05,2021-10-28,a,1005.0,44.11,51.38
+Morning Consult,218,1.0,2021-10-28,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-10-28,a,2198.0,47.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-27,lv,1500.0,42.0,57.0
+RMG Research,555,0.85,2021-10-27,rv,1200.0,43.0,53.0
+Morning Consult,218,1.0,2021-10-27,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-10-26,a,45000.0,45.0,48.0
+Echelon Insights,407,0.9,2021-10-26,rv,1600.0,45.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-26,lv,1500.0,42.0,57.0
+YouGov,391,0.93,2021-10-26,rv,1261.0,45.0,49.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-10-26,rv,820.0,45.0,52.0
+Morning Consult,218,1.0,2021-10-25,a,45000.0,45.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-25,lv,1500.0,41.0,57.0
+AP-NORC,397,0.6,2021-10-25,a,1083.0,48.0,51.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-10-25,rv,1001.0,43.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-24,lv,1500.0,43.0,56.0
+Leger,572,0.9,2021-10-24,a,1002.0,43.0,54.0
+Morning Consult,218,1.0,2021-10-24,a,45000.0,45.0,48.0
+Morning Consult,218,1.0,2021-10-24,rv,1999.0,46.0,51.0
+HarrisX,133,1.05,2021-10-23,rv,2727.0,42.0,47.0
+Morning Consult,218,1.0,2021-10-23,a,2201.0,53.0,45.0
+Saint Leo U.,299,0.3,2021-10-23,a,1000.0,52.1,44.9
+Morning Consult,218,1.0,2021-10-23,a,2201.0,49.0,47.0
+Morning Consult,218,1.0,2021-10-23,a,45000.0,46.0,47.0
+RMG Research,555,0.85,2021-10-23,rv,1200.0,43.0,53.0
+Marist,183,1.0,2021-10-22,rv,1032.0,44.0,50.0
+Morning Consult,218,1.0,2021-10-22,a,45000.0,45.0,47.0
+Ipsos,154,1.05,2021-10-21,a,1005.0,45.72,48.04
+Trafalgar Group,338,1.05,2021-10-21,lv,1083.0,39.2,58.4
+YouGov,391,0.93,2021-10-21,a,1704.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-21,lv,1500.0,42.0,57.0
+Morning Consult,218,1.0,2021-10-21,a,45000.0,46.0,47.0
+Lake Research Partners/The Tarrance Group,114,1.1,2021-10-21,rv,1000.0,45.3,52.2
+Morning Consult,218,1.0,2021-10-20,a,45000.0,46.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-20,lv,1500.0,42.0,56.0
+American Research Group,9,0.75,2021-10-20,rv,992.0,47.0,48.0
+RMG Research,555,0.85,2021-10-20,rv,1200.0,47.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-19,lv,1500.0,41.0,58.0
+YouGov,391,0.93,2021-10-19,rv,1268.0,45.0,48.0
+Echelon Insights,407,0.9,2021-10-19,lv,915.0,48.0,51.0
+Gallup,112,1.05,2021-10-19,a,823.0,42.0,52.0
+Beacon Research/Shaw & Company,103,1.0,2021-10-19,rv,1003.0,46.0,53.0
+Morning Consult,218,1.0,2021-10-19,a,45000.0,46.0,47.0
+Climate Nexus,506,0.6,2021-10-18,rv,2678.0,46.0,50.0
+Morning Consult,218,1.0,2021-10-18,rv,1998.0,45.0,52.0
+McLaughlin,203,0.4,2021-10-18,lv,1000.0,45.0,54.0
+Quinnipiac,267,1.0,2021-10-18,rv,1168.0,40.0,51.0
+Morning Consult,218,1.0,2021-10-18,a,45000.0,46.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-18,lv,1500.0,42.0,56.0
+Benenson Strategy Group/Public Opinion Strategies,711,0.6,2021-10-18,lv,2672.0,48.0,50.0
+Morning Consult,218,1.0,2021-10-17,a,45000.0,46.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-17,lv,1500.0,42.0,56.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-10-17,a,800.0,41.0,52.0
+Redfield & Wilton Strategies,562,0.3,2021-10-17,rv,1500.0,43.0,39.0
+Morning Consult,218,1.0,2021-10-17,a,2200.0,49.0,45.0
+Selzer,304,1.3,2021-10-17,lv,735.0,40.0,51.0
+RMG Research,555,0.85,2021-10-16,rv,1200.0,47.0,48.0
+Morning Consult,218,1.0,2021-10-16,a,45000.0,46.0,47.0
+Morning Consult,218,1.0,2021-10-15,a,45000.0,46.0,47.0
+Morning Consult,218,1.0,2021-10-15,a,2200.0,48.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-14,lv,1500.0,43.0,56.0
+Ipsos,154,1.05,2021-10-14,a,1005.0,46.08,48.08
+Morning Consult,218,1.0,2021-10-14,a,45000.0,46.0,47.0
+"Cor Services, Inc.",688,0.6,2021-10-14,lv,508.0,40.0,56.0
+Morning Consult,218,1.0,2021-10-13,a,45000.0,46.0,47.0
+RMG Research,555,0.85,2021-10-13,rv,1200.0,43.0,47.0
+Morning Consult,218,1.0,2021-10-13,a,2201.0,48.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-13,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-10-12,a,2200.0,46.0,49.0
+Morning Consult,218,1.0,2021-10-12,a,2200.0,47.0,48.0
+YouGov,391,0.93,2021-10-12,rv,1266.0,42.0,51.0
+Morning Consult,218,1.0,2021-10-12,a,2200.0,47.0,48.0
+Morning Consult,218,1.0,2021-10-12,a,45000.0,46.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-12,lv,1500.0,43.0,56.0
+SSRS,297,0.65,2021-10-11,rv,,50.0,50.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-10-11,rv,1001.0,46.0,51.0
+Morning Consult,218,1.0,2021-10-11,a,45000.0,46.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-11,lv,1500.0,41.0,57.0
+Morning Consult,218,1.0,2021-10-11,rv,1999.0,46.0,51.0
+Morning Consult,218,1.0,2021-10-10,a,45000.0,46.0,47.0
+Leger,572,0.9,2021-10-10,a,1000.0,45.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-10,lv,1500.0,41.0,58.0
+RMG Research,555,0.85,2021-10-09,rv,1200.0,47.0,50.0
+Morning Consult,218,1.0,2021-10-09,a,45000.0,46.0,47.0
+YouGov,391,0.93,2021-10-08,a,2054.0,50.0,50.0
+Morning Consult,218,1.0,2021-10-08,a,45000.0,46.0,47.0
+Morning Consult,218,1.0,2021-10-08,a,2200.0,49.0,46.0
+Morning Consult,218,1.0,2021-10-07,a,45000.0,45.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-07,lv,1500.0,43.0,56.0
+Ipsos,154,1.05,2021-10-07,a,1005.0,48.35,46.8
+"Cor Services, Inc.",688,0.6,2021-10-06,lv,516.0,39.0,53.0
+Trafalgar Group,338,1.05,2021-10-06,lv,1087.0,39.6,56.0
+Morning Consult,218,1.0,2021-10-06,a,45000.0,45.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-06,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2021-10-05,a,45000.0,46.0,47.0
+YouGov,391,0.93,2021-10-05,rv,1261.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-05,lv,1500.0,45.0,54.0
+Redfield & Wilton Strategies,562,0.3,2021-10-05,rv,1500.0,45.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-04,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2021-10-04,a,2200.0,45.0,49.0
+Morning Consult,218,1.0,2021-10-04,a,45000.0,46.0,47.0
+Morning Consult,218,1.0,2021-10-04,rv,1998.0,45.0,52.0
+Morning Consult,218,1.0,2021-10-04,a,4400.0,46.0,49.0
+Quinnipiac,267,1.0,2021-10-04,rv,1177.0,40.0,53.0
+YouGov,391,0.93,2021-10-04,a,1640.0,42.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-10-03,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-10-03,a,45000.0,46.0,47.0
+TIPP,144,1.3,2021-10-02,a,1308.0,44.0,40.0
+Morning Consult,218,1.0,2021-10-02,a,45000.0,45.0,47.0
+PPP,263,1.0,2021-10-01,rv,758.0,46.0,47.0
+Morning Consult,218,1.0,2021-10-01,a,45000.0,45.0,47.0
+SurveyMonkey,324,0.75,2021-09-30,rv,57365.0,46.0,53.0
+Morning Consult,218,1.0,2021-09-30,a,2200.0,46.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-30,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2021-09-30,a,45000.0,45.0,47.0
+Ipsos,154,1.05,2021-09-30,a,1005.0,45.77,49.92
+Morning Consult,218,1.0,2021-09-29,a,2200.0,49.0,46.0
+Public Religion Research Institute,428,0.9,2021-09-29,a,2508.0,52.0,48.0
+Morning Consult,218,1.0,2021-09-29,a,45000.0,45.0,47.0
+Morning Consult,218,1.0,2021-09-29,a,2200.0,48.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-29,lv,1500.0,42.0,56.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-28,lv,1500.0,42.0,56.0
+YouGov,391,0.93,2021-09-28,rv,1246.0,43.0,51.0
+HarrisX,133,1.05,2021-09-28,rv,935.0,48.0,43.0
+Morning Consult,218,1.0,2021-09-28,a,45000.0,45.0,47.0
+Morning Consult,218,1.0,2021-09-27,a,45000.0,45.0,47.0
+AP-NORC,397,0.6,2021-09-27,a,1099.0,50.0,49.0
+Morning Consult,218,1.0,2021-09-27,rv,1999.0,47.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-27,lv,1500.0,41.0,58.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-09-27,rv,1000.0,46.0,51.0
+Marist,183,1.0,2021-09-26,rv,1029.0,46.0,46.0
+Morning Consult,218,1.0,2021-09-26,a,45000.0,46.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-26,lv,1500.0,40.0,58.0
+Leger,572,0.9,2021-09-26,a,1001.0,46.0,52.0
+Morning Consult,218,1.0,2021-09-25,a,2200.0,47.0,49.0
+RMG Research,555,0.85,2021-09-25,rv,1200.0,45.0,48.0
+HarrisX,133,1.05,2021-09-25,rv,935.0,47.0,42.0
+Morning Consult,218,1.0,2021-09-25,a,45000.0,46.0,46.0
+Morning Consult,218,1.0,2021-09-24,a,45000.0,46.0,46.0
+Morning Consult,218,1.0,2021-09-23,a,45000.0,47.0,46.0
+Echelon Insights,407,0.9,2021-09-23,lv,829.0,53.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-23,lv,1500.0,42.0,56.0
+Ipsos,154,1.05,2021-09-23,a,1005.0,44.21,50.77
+Morning Consult,218,1.0,2021-09-22,a,45000.0,47.0,46.0
+RMG Research,555,0.85,2021-09-22,rv,1200.0,47.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-22,lv,1500.0,45.0,54.0
+Morning Consult,218,1.0,2021-09-21,a,45000.0,47.0,46.0
+Morning Consult,218,1.0,2021-09-21,a,2200.0,49.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-21,lv,1500.0,45.0,55.0
+YouGov,391,0.93,2021-09-21,rv,1281.0,46.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-20,lv,1500.0,44.0,56.0
+Morning Consult,218,1.0,2021-09-20,rv,1998.0,47.0,50.0
+American Research Group,9,0.75,2021-09-20,rv,991.0,51.0,46.0
+YouGov,391,0.93,2021-09-20,a,3201.0,45.0,50.0
+Redfield & Wilton Strategies,562,0.3,2021-09-20,rv,1500.0,45.0,34.0
+Morning Consult,218,1.0,2021-09-20,a,2200.0,49.0,44.0
+Morning Consult,218,1.0,2021-09-20,a,45000.0,47.0,46.0
+Morning Consult,218,1.0,2021-09-20,a,4400.0,46.0,48.0
+Pew,253,0.9,2021-09-19,a,10371.0,44.0,53.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-19,lv,1500.0,43.0,56.0
+Morning Consult,218,1.0,2021-09-19,a,45000.0,47.0,46.0
+Bullfinch,692,0.6,2021-09-19,rv,1000.0,49.0,47.0
+Morning Consult,218,1.0,2021-09-18,a,2200.0,49.0,46.0
+RMG Research,555,0.85,2021-09-18,rv,1200.0,48.0,48.0
+Morning Consult,218,1.0,2021-09-18,a,45000.0,46.0,46.0
+Morning Consult,218,1.0,2021-09-17,a,45000.0,46.0,46.0
+Gallup,112,1.05,2021-09-17,a,1005.0,43.0,53.0
+Morning Consult,218,1.0,2021-09-16,a,2200.0,51.0,44.0
+Marquette Law School,195,1.08,2021-09-16,a,1411.0,48.0,52.0
+Morning Consult,218,1.0,2021-09-16,a,45000.0,46.0,46.0
+Harris Poll,133,1.05,2021-09-16,rv,1578.0,48.0,50.0
+Ipsos,154,1.05,2021-09-16,a,1005.0,44.36,50.3
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-16,lv,1500.0,43.0,55.0
+Morning Consult,218,1.0,2021-09-15,a,45000.0,46.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-15,lv,1500.0,44.0,55.0
+Beacon Research/Shaw & Company,103,1.0,2021-09-15,rv,1002.0,50.0,49.0
+YouGov,391,0.93,2021-09-14,rv,1252.0,46.0,49.0
+Morning Consult,218,1.0,2021-09-14,a,45000.0,47.0,46.0
+McLaughlin,203,0.4,2021-09-14,lv,1000.0,47.0,52.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-14,lv,1500.0,44.0,55.0
+Morning Consult,218,1.0,2021-09-13,a,2200.0,49.0,45.0
+Quinnipiac,267,1.0,2021-09-13,rv,1079.0,44.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-13,lv,1500.0,45.0,53.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-09-13,rv,995.0,49.0,49.0
+Morning Consult,218,1.0,2021-09-13,a,4400.0,48.0,46.0
+Morning Consult,218,1.0,2021-09-13,rv,1997.0,47.0,50.0
+Leger,572,0.9,2021-09-13,a,1002.0,48.0,50.0
+Morning Consult,218,1.0,2021-09-13,a,45000.0,47.0,46.0
+Monmouth U.,215,1.0,2021-09-13,rv,747.0,47.0,46.0
+Morning Consult,218,1.0,2021-09-12,a,2200.0,48.0,46.0
+Morning Consult,218,1.0,2021-09-12,rv,16843.0,47.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-12,lv,1500.0,46.0,52.0
+Morning Consult,218,1.0,2021-09-12,a,45000.0,47.0,45.0
+Morning Consult,218,1.0,2021-09-12,a,2200.0,48.0,47.0
+Morning Consult,218,1.0,2021-09-11,a,45000.0,47.0,45.0
+Morning Consult,218,1.0,2021-09-11,a,2200.0,47.0,48.0
+HarrisX,133,1.05,2021-09-11,rv,958.0,47.0,44.0
+RMG Research,555,0.85,2021-09-11,rv,1200.0,47.0,48.0
+Morning Consult,218,1.0,2021-09-10,a,45000.0,47.0,45.0
+Ipsos,154,1.05,2021-09-09,a,1005.0,47.03,46.16
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-09,lv,1500.0,46.0,52.0
+HarrisX,133,1.05,2021-09-09,rv,1803.0,55.0,45.0
+Trafalgar Group,338,1.05,2021-09-09,lv,1086.0,43.5,54.3
+Morning Consult,218,1.0,2021-09-09,a,45000.0,47.0,45.0
+YouGov,391,0.93,2021-09-09,a,2011.0,50.0,50.0
+POS,260,1.0,2021-09-08,rv,800.0,48.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-08,lv,1500.0,46.0,52.0
+Winston,385,0.9,2021-09-08,rv,1000.0,46.0,44.0
+Morning Consult,218,1.0,2021-09-08,a,45000.0,47.0,45.0
+Echelon Insights,407,0.9,2021-09-08,a,1000.0,48.0,46.0
+Morning Consult,218,1.0,2021-09-08,rv,18732.0,47.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-07,lv,1500.0,46.0,53.0
+YouGov,391,0.93,2021-09-07,rv,1264.0,43.0,52.0
+SSRS,297,0.65,2021-09-07,rv,1838.0,50.0,50.0
+Morning Consult,218,1.0,2021-09-07,a,45000.0,46.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-06,lv,1500.0,47.0,52.0
+Morning Consult,218,1.0,2021-09-06,rv,17494.0,47.0,49.0
+Morning Consult,218,1.0,2021-09-06,a,2200.0,50.0,44.0
+Morning Consult,218,1.0,2021-09-06,a,2200.0,48.0,46.0
+Morning Consult,218,1.0,2021-09-06,a,45000.0,46.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-05,lv,1500.0,46.0,52.0
+RMG Research,555,0.85,2021-09-05,rv,1200.0,42.0,52.0
+Morning Consult,218,1.0,2021-09-05,a,45000.0,47.0,45.0
+Redfield & Wilton Strategies,562,0.3,2021-09-05,rv,1500.0,46.0,36.0
+Morning Consult,218,1.0,2021-09-04,a,45000.0,47.0,45.0
+TIPP,144,1.3,2021-09-03,rv,1044.0,47.0,45.0
+Morning Consult,218,1.0,2021-09-03,a,45000.0,47.0,45.0
+Morning Consult,218,1.0,2021-09-02,a,2200.0,49.0,46.0
+Morning Consult,218,1.0,2021-09-02,a,45000.0,47.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-02,lv,1500.0,44.0,54.0
+Morning Consult,218,1.0,2021-09-02,rv,7988.0,49.0,48.0
+Ipsos,154,1.05,2021-09-02,a,1005.0,45.94,48.26
+Change Research,48,0.85,2021-09-02,rv,1775.0,46.0,54.0
+YouGov,391,0.93,2021-09-01,a,1605.0,44.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-09-01,lv,1500.0,42.0,56.0
+Morning Consult,218,1.0,2021-09-01,a,45000.0,48.0,45.0
+Emerson College Polling Society,88,1.05,2021-09-01,rv,1200.0,45.8,46.9
+ABC/Washington Post,3,1.2,2021-09-01,a,1006.0,44.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-31,lv,1500.0,42.0,56.0
+YouGov,391,0.93,2021-08-31,rv,1262.0,47.0,46.0
+SurveyMonkey,324,0.75,2021-08-31,rv,80245.0,49.0,50.0
+Marist,183,1.0,2021-08-31,rv,1145.0,43.0,51.0
+Morning Consult,218,1.0,2021-08-31,a,45000.0,48.0,44.0
+Morning Consult,218,1.0,2021-08-30,a,45000.0,49.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-30,lv,1500.0,44.0,54.0
+Morning Consult,218,1.0,2021-08-30,rv,1997.0,47.0,49.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-08-30,rv,1002.0,47.0,50.0
+Leger,572,0.9,2021-08-30,a,1004.0,48.0,49.0
+Morning Consult,218,1.0,2021-08-29,a,45000.0,49.0,44.0
+Morning Consult,218,1.0,2021-08-29,a,2200.0,48.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-29,lv,1500.0,45.0,54.0
+Morning Consult,218,1.0,2021-08-29,rv,15623.0,48.0,49.0
+Morning Consult,218,1.0,2021-08-28,a,45000.0,49.0,44.0
+Morning Consult,218,1.0,2021-08-28,a,2200.0,53.0,44.0
+Morning Consult,218,1.0,2021-08-27,a,45000.0,49.0,43.0
+Morning Consult,218,1.0,2021-08-26,a,45000.0,49.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-26,lv,1500.0,45.0,53.0
+Ipsos,154,1.05,2021-08-26,a,1006.0,49.06,46.01
+Morning Consult,218,1.0,2021-08-25,a,45000.0,49.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-25,lv,1500.0,44.0,55.0
+Morning Consult,218,1.0,2021-08-25,a,2200.0,51.0,44.0
+Morning Consult,218,1.0,2021-08-24,rv,1996.0,50.0,48.0
+YouGov,391,0.93,2021-08-24,rv,1242.0,48.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-24,lv,1500.0,44.0,55.0
+Morning Consult,218,1.0,2021-08-24,a,45000.0,49.0,43.0
+"Cor Services, Inc.",688,0.6,2021-08-24,lv,618.0,40.0,50.0
+Morning Consult,218,1.0,2021-08-24,a,2200.0,52.0,43.0
+Suffolk,323,1.0,2021-08-23,rv,1000.0,41.2,55.1
+Morning Consult,218,1.0,2021-08-23,a,45000.0,50.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-23,lv,1500.0,44.0,55.0
+Morning Consult,218,1.0,2021-08-23,a,2200.0,52.0,43.0
+Morning Consult,218,1.0,2021-08-22,a,2201.0,51.0,45.0
+Morning Consult,218,1.0,2021-08-22,a,45000.0,50.0,42.0
+HarrisX,133,1.05,2021-08-22,rv,2846.0,49.0,43.0
+RMG Research,555,0.85,2021-08-22,rv,1200.0,46.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-22,lv,1500.0,46.0,53.0
+Morning Consult,218,1.0,2021-08-21,a,45000.0,50.0,42.0
+Morning Consult,218,1.0,2021-08-20,a,45000.0,51.0,42.0
+YouGov,391,0.93,2021-08-20,a,2142.0,50.0,50.0
+American Research Group,9,0.75,2021-08-20,rv,992.0,50.0,46.0
+Ipsos,154,1.05,2021-08-19,a,4427.0,50.0,44.0
+Morning Consult,218,1.0,2021-08-19,a,45000.0,51.0,42.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-19,lv,1500.0,46.0,53.0
+Ipsos,154,1.05,2021-08-19,a,1002.0,46.07,49.01
+Morning Consult,218,1.0,2021-08-19,rv,1999.0,50.0,47.0
+Susquehanna,326,0.93,2021-08-18,lv,800.0,49.0,45.0
+SurveyMonkey,324,0.75,2021-08-18,a,1066.0,47.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-18,lv,1500.0,46.0,53.0
+Echelon Insights,407,0.9,2021-08-18,rv,1016.0,52.0,46.0
+YouGov,391,0.93,2021-08-18,a,1649.0,47.0,46.0
+Morning Consult,218,1.0,2021-08-18,a,45000.0,51.0,41.0
+Morning Consult,218,1.0,2021-08-17,a,45000.0,52.0,40.0
+Gallup,112,1.05,2021-08-17,a,1006.0,49.0,48.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-08-17,rv,790.0,50.0,48.0
+YouGov,391,0.93,2021-08-17,rv,1250.0,47.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-17,lv,1500.0,46.0,54.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-08-16,rv,1001.0,50.0,46.0
+Morning Consult,218,1.0,2021-08-16,rv,1999.0,51.0,46.0
+Morning Consult,218,1.0,2021-08-16,a,2200.0,54.0,40.0
+Morning Consult,218,1.0,2021-08-16,a,2200.0,52.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-16,lv,1500.0,45.0,54.0
+John Zogby Strategies,583,0.9,2021-08-16,a,956.0,51.8,42.3
+Morning Consult,218,1.0,2021-08-16,a,45000.0,52.0,40.0
+Ipsos,154,1.05,2021-08-16,a,947.0,46.0,47.0
+AP-NORC,397,0.6,2021-08-16,a,1729.0,54.0,46.0
+Morning Consult,218,1.0,2021-08-16,a,2200.0,56.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-15,lv,1500.0,46.0,53.0
+Leger,572,0.9,2021-08-15,a,1005.0,51.0,47.0
+Morning Consult,218,1.0,2021-08-15,a,45000.0,52.0,40.0
+Morning Consult,218,1.0,2021-08-15,a,2200.0,55.0,41.0
+Ipsos,154,1.05,2021-08-15,a,1198.0,53.0,41.0
+Morning Consult,218,1.0,2021-08-14,a,45000.0,52.0,40.0
+Morning Consult,218,1.0,2021-08-14,rv,15000.0,51.0,45.0
+Morning Consult,218,1.0,2021-08-13,a,45000.0,52.0,40.0
+Morning Consult,218,1.0,2021-08-13,a,2200.0,56.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-12,lv,1500.0,47.0,52.0
+Ipsos,154,1.05,2021-08-12,a,1002.0,51.26,43.04
+Morning Consult,218,1.0,2021-08-12,a,45000.0,51.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-11,lv,1500.0,47.0,52.0
+Morning Consult,218,1.0,2021-08-11,a,45000.0,51.0,40.0
+Trafalgar Group,338,1.05,2021-08-11,lv,1073.0,46.5,47.5
+Morning Consult,218,1.0,2021-08-10,a,45000.0,51.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-10,lv,1500.0,48.0,50.0
+HarrisX,133,1.05,2021-08-10,rv,4918.0,54.0,40.0
+YouGov,391,0.93,2021-08-10,rv,1251.0,47.0,45.0
+Beacon Research/Shaw & Company,103,1.0,2021-08-10,rv,1002.0,53.0,46.0
+Morning Consult,218,1.0,2021-08-09,a,2200.0,53.0,41.0
+Morning Consult,218,1.0,2021-08-09,a,45000.0,51.0,41.0
+Morning Consult,218,1.0,2021-08-09,rv,1996.0,51.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-09,lv,1500.0,48.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-08,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-08-08,a,45000.0,50.0,41.0
+Morning Consult,218,1.0,2021-08-07,a,45000.0,51.0,41.0
+Morning Consult,218,1.0,2021-08-06,a,45000.0,51.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-05,lv,1500.0,48.0,51.0
+Morning Consult,218,1.0,2021-08-05,a,45000.0,51.0,40.0
+HarrisX,133,1.05,2021-08-05,rv,1103.0,55.0,40.0
+Ipsos,154,1.05,2021-08-05,a,1004.0,50.14,42.69
+Morning Consult,218,1.0,2021-08-04,a,45000.0,51.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-04,lv,1500.0,48.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-03,lv,1500.0,48.0,51.0
+Morning Consult,218,1.0,2021-08-03,a,45000.0,51.0,41.0
+Redfield & Wilton Strategies,562,0.3,2021-08-03,rv,1500.0,48.0,36.0
+McLaughlin,203,0.4,2021-08-03,lv,1000.0,54.0,45.0
+YouGov,391,0.93,2021-08-03,rv,1233.0,49.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-02,lv,1500.0,48.0,51.0
+Morning Consult,218,1.0,2021-08-02,a,45000.0,51.0,40.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-08-02,rv,1000.0,51.0,46.0
+Morning Consult,218,1.0,2021-08-02,a,2200.0,53.0,41.0
+Morning Consult,218,1.0,2021-08-02,a,2200.0,51.0,43.0
+Morning Consult,218,1.0,2021-08-02,rv,1998.0,52.0,46.0
+YouGov,391,0.93,2021-08-02,a,1552.0,48.0,44.0
+Quinnipiac,267,1.0,2021-08-02,rv,1145.0,47.0,44.0
+Morning Consult,218,1.0,2021-08-01,a,2200.0,55.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-08-01,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-08-01,a,45000.0,51.0,40.0
+Leger,572,0.9,2021-08-01,a,1001.0,53.0,45.0
+SurveyMonkey,324,0.75,2021-07-31,rv,35392.0,51.0,48.0
+"Cor Services, Inc.",688,0.6,2021-07-31,lv,515.0,43.0,51.0
+Morning Consult,218,1.0,2021-07-31,a,45000.0,51.0,40.0
+TIPP,144,1.3,2021-07-30,rv,1026.0,57.0,34.0
+Morning Consult,218,1.0,2021-07-30,a,45000.0,52.0,40.0
+Harris Poll,133,1.05,2021-07-29,rv,1788.0,52.0,43.0
+Ipsos,154,1.05,2021-07-29,a,1005.0,53.83,42.1
+Morning Consult,218,1.0,2021-07-29,rv,2000.0,51.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-29,lv,1500.0,47.0,51.0
+Marist,183,1.0,2021-07-29,rv,943.0,50.0,45.0
+Morning Consult,218,1.0,2021-07-29,a,45000.0,52.0,40.0
+Morning Consult,218,1.0,2021-07-28,a,45000.0,52.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-28,lv,1500.0,47.0,51.0
+WPA Intelligence,383,0.3,2021-07-28,rv,1000.0,47.0,44.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-07-28,a,802.0,48.0,45.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-27,lv,1500.0,46.0,52.0
+Morning Consult,218,1.0,2021-07-27,a,45000.0,52.0,40.0
+YouGov,391,0.93,2021-07-27,rv,1280.0,49.0,45.0
+Morning Consult,218,1.0,2021-07-26,rv,1997.0,52.0,45.0
+Morning Consult,218,1.0,2021-07-26,a,45000.0,52.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-26,lv,1500.0,47.0,51.0
+Marquette Law School,195,1.08,2021-07-26,a,1010.0,58.0,42.0
+Monmouth U.,215,1.0,2021-07-26,rv,753.0,49.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-25,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-07-25,a,2201.0,54.0,40.0
+Morning Consult,218,1.0,2021-07-25,a,45000.0,52.0,40.0
+Morning Consult,218,1.0,2021-07-24,a,45000.0,52.0,40.0
+Echelon Insights,407,0.9,2021-07-23,rv,1143.0,55.0,43.0
+Morning Consult,218,1.0,2021-07-23,a,45000.0,52.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-22,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-07-22,a,45000.0,52.0,40.0
+Ipsos,154,1.05,2021-07-22,a,1005.0,53.98,40.44
+Gallup,112,1.05,2021-07-21,a,1007.0,50.0,45.0
+Morning Consult,218,1.0,2021-07-21,a,45000.0,52.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-21,lv,1500.0,51.0,48.0
+HarrisX,133,1.05,2021-07-21,rv,949.0,58.0,42.0
+Morning Consult,218,1.0,2021-07-20,a,45000.0,52.0,40.0
+American Research Group,9,0.75,2021-07-20,rv,991.0,54.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-20,lv,1500.0,50.0,48.0
+YouGov,391,0.93,2021-07-20,rv,1272.0,50.0,43.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-07-19,rv,1000.0,52.0,44.0
+Morning Consult,218,1.0,2021-07-19,a,15401.0,55.0,40.0
+AP-NORC,397,0.6,2021-07-19,a,1308.0,59.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-19,lv,1500.0,51.0,48.0
+Morning Consult,218,1.0,2021-07-19,a,45000.0,52.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-18,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-07-18,rv,1997.0,52.0,44.0
+Pew,253,0.9,2021-07-18,a,10221.0,55.0,43.0
+Morning Consult,218,1.0,2021-07-18,a,2199.0,53.0,41.0
+Leger,572,0.9,2021-07-18,a,1001.0,54.0,45.0
+Morning Consult,218,1.0,2021-07-18,a,45000.0,52.0,39.0
+YouGov,391,0.93,2021-07-17,a,2238.0,58.0,42.0
+Morning Consult,218,1.0,2021-07-17,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-07-16,a,45000.0,52.0,39.0
+GreatBlue Research,748,0.6,2021-07-16,a,1500.0,52.1,35.7
+YouGov,391,0.93,2021-07-15,a,1715.0,50.0,42.0
+Morning Consult,218,1.0,2021-07-15,a,45000.0,52.0,39.0
+Ipsos,154,1.05,2021-07-15,a,1005.0,53.43,41.64
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-15,lv,1500.0,49.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-14,lv,1500.0,48.0,50.0
+Morning Consult,218,1.0,2021-07-14,a,45000.0,52.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-13,lv,1500.0,49.0,49.0
+YouGov,391,0.93,2021-07-13,rv,1292.0,49.0,45.0
+Morning Consult,218,1.0,2021-07-13,a,4398.0,54.0,39.0
+Morning Consult,218,1.0,2021-07-13,a,45000.0,52.0,39.0
+Morning Consult,218,1.0,2021-07-12,rv,1996.0,52.0,45.0
+Morning Consult,218,1.0,2021-07-12,a,45000.0,52.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-12,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-07-11,a,45000.0,52.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-11,lv,1500.0,49.0,49.0
+RMG Research,555,0.85,2021-07-10,rv,1200.0,51.0,41.0
+Morning Consult,218,1.0,2021-07-10,a,45000.0,52.0,39.0
+Morning Consult,218,1.0,2021-07-10,rv,3995.0,53.0,45.0
+"Cor Services, Inc.",688,0.6,2021-07-10,lv,518.0,46.0,46.0
+HarrisX,133,1.05,2021-07-09,rv,938.0,59.0,41.0
+Morning Consult,218,1.0,2021-07-09,a,45000.0,53.0,39.0
+Ipsos,154,1.05,2021-07-08,a,1004.0,52.1,43.13
+Morning Consult,218,1.0,2021-07-08,a,45000.0,53.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-07,lv,1500.0,49.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-07,lv,1500.0,49.0,50.0
+Morning Consult,218,1.0,2021-07-07,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-07-06,a,45000.0,52.0,39.0
+YouGov,391,0.93,2021-07-06,rv,1281.0,51.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-06,lv,1500.0,49.0,50.0
+Zogby,395,0.85,2021-07-06,lv,681.0,60.0,39.0
+Morning Consult,218,1.0,2021-07-06,a,2193.0,56.0,38.0
+Morning Consult,218,1.0,2021-07-05,a,45000.0,52.0,39.0
+Morning Consult,218,1.0,2021-07-04,a,45000.0,52.0,39.0
+Leger,572,0.9,2021-07-04,a,1003.0,56.0,43.0
+Morning Consult,218,1.0,2021-07-03,a,45000.0,52.0,39.0
+TIPP,144,1.3,2021-07-02,rv,1145.0,54.0,38.0
+Morning Consult,218,1.0,2021-07-02,a,45000.0,52.0,39.0
+Ipsos,154,1.05,2021-07-01,a,1004.0,51.5,41.95
+Rasmussen (Pulse Opinion Research),277,0.93,2021-07-01,lv,1500.0,48.0,50.0
+Morning Consult,218,1.0,2021-07-01,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-30,a,45000.0,53.0,39.0
+ABC/Washington Post,3,1.2,2021-06-30,a,907.0,50.0,42.0
+SurveyMonkey,324,0.75,2021-06-30,rv,43386.0,52.0,47.0
+HarrisX,133,1.05,2021-06-30,rv,950.0,60.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-30,lv,1500.0,48.0,49.0
+Marist,183,1.0,2021-06-29,rv,905.0,51.0,44.0
+YouGov,391,0.93,2021-06-29,rv,1290.0,50.0,46.0
+Morning Consult,218,1.0,2021-06-29,a,45000.0,53.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-29,lv,1500.0,48.0,50.0
+Morning Consult,218,1.0,2021-06-28,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-28,rv,1989.0,54.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-28,lv,1500.0,49.0,49.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-06-28,rv,1000.0,54.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-27,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-06-27,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-26,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-25,a,45000.0,53.0,39.0
+Ipsos,154,1.05,2021-06-24,a,1005.0,52.6,40.23
+YouGov,391,0.93,2021-06-24,a,1592.0,50.0,43.0
+Morning Consult,218,1.0,2021-06-24,a,2200.0,58.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-24,lv,1500.0,51.0,47.0
+Morning Consult,218,1.0,2021-06-24,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-23,a,45000.0,53.0,39.0
+YouGov,391,0.93,2021-06-23,rv,1753.0,51.0,46.7
+Morning Consult,218,1.0,2021-06-23,a,2082.0,58.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-23,lv,1500.0,51.0,47.0
+Beacon Research/Shaw & Company,103,1.0,2021-06-22,rv,1001.0,56.0,43.0
+Morning Consult,218,1.0,2021-06-22,a,45000.0,54.0,39.0
+Echelon Insights,407,0.9,2021-06-22,rv,1001.0,55.0,42.0
+YouGov,391,0.93,2021-06-22,rv,1223.0,52.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-22,lv,1500.0,52.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-21,lv,1500.0,51.0,47.0
+Morning Consult,218,1.0,2021-06-21,a,45000.0,54.0,38.0
+GQR,126,0.93,2021-06-21,rv,2000.0,57.0,43.0
+American Research Group,9,0.75,2021-06-20,rv,990.0,52.0,43.0
+McLaughlin,203,0.4,2021-06-20,lv,1000.0,55.0,44.0
+Morning Consult,218,1.0,2021-06-20,rv,2041.0,54.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-20,lv,1500.0,52.0,46.0
+Morning Consult,218,1.0,2021-06-20,rv,1995.0,58.0,40.0
+Leger,572,0.9,2021-06-20,a,1001.0,49.0,40.0
+Morning Consult,218,1.0,2021-06-20,a,45000.0,53.0,38.0
+Morning Consult,218,1.0,2021-06-19,a,2200.0,56.0,38.0
+East Carolina University,523,0.6,2021-06-19,a,1105.0,47.9,40.9
+Morning Consult,218,1.0,2021-06-19,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-18,a,45000.0,53.0,39.0
+Gallup,112,1.05,2021-06-18,a,1012.0,56.0,42.0
+Harris Poll,133,1.05,2021-06-17,rv,2006.0,59.0,34.0
+Morning Consult,218,1.0,2021-06-17,a,45000.0,53.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-17,lv,1500.0,51.0,48.0
+Ipsos,154,1.05,2021-06-17,a,4420.0,55.0,41.0
+Ipsos,154,1.05,2021-06-17,a,1002.0,51.57,42.25
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-16,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-06-16,a,45000.0,53.0,39.0
+Momentive,324,0.75,2021-06-15,a,2309.0,53.0,42.0
+Climate Nexus,506,0.6,2021-06-15,rv,1525.0,56.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-15,lv,1500.0,50.0,48.0
+YouGov,391,0.93,2021-06-15,rv,1305.0,48.0,45.0
+Morning Consult,218,1.0,2021-06-15,a,45000.0,53.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-14,lv,1500.0,49.0,49.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-06-14,rv,1001.0,52.0,44.0
+Monmouth U.,215,1.0,2021-06-14,rv,758.0,49.0,43.0
+Morning Consult,218,1.0,2021-06-14,a,45000.0,52.0,39.0
+AP-NORC,397,0.6,2021-06-14,a,1125.0,55.0,44.0
+Morning Consult,218,1.0,2021-06-13,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-13,rv,1994.0,53.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-13,lv,1500.0,49.0,50.0
+Morning Consult,218,1.0,2021-06-12,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-11,a,45000.0,53.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-10,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-06-10,a,45000.0,52.0,39.0
+Ipsos,154,1.05,2021-06-10,a,1004.0,54.95,40.26
+Winston,385,0.9,2021-06-10,rv,1000.0,54.0,38.0
+Lake Research Partners/The Tarrance Group,114,1.1,2021-06-10,rv,1000.0,52.0,45.0
+HarrisX,133,1.05,2021-06-09,rv,1885.0,61.0,39.0
+Morning Consult,218,1.0,2021-06-09,a,45000.0,52.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-09,lv,1500.0,52.0,47.0
+Morning Consult,218,1.0,2021-06-08,a,45000.0,52.0,39.0
+Morning Consult,218,1.0,2021-06-08,a,2200.0,51.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-08,lv,1500.0,51.0,48.0
+YouGov,391,0.93,2021-06-08,rv,1242.0,51.0,43.0
+Morning Consult,218,1.0,2021-06-07,a,2200.0,54.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-07,lv,1500.0,49.0,49.0
+Bullfinch,692,0.6,2021-06-07,rv,1000.0,55.0,42.0
+Morning Consult,218,1.0,2021-06-07,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-07,rv,1990.0,52.0,43.0
+Leger,572,0.9,2021-06-06,a,1004.0,51.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-06,lv,1500.0,48.0,49.0
+Morning Consult,218,1.0,2021-06-06,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-05,a,45000.0,53.0,39.0
+RMG Research,555,0.85,2021-06-05,rv,1200.0,55.0,39.0
+"Cor Services, Inc.",688,0.6,2021-06-05,lv,519.0,50.0,42.0
+Morning Consult,218,1.0,2021-06-04,a,45000.0,53.0,39.0
+Morning Consult,218,1.0,2021-06-03,a,45000.0,53.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-03,lv,1500.0,49.0,49.0
+Ipsos,154,1.05,2021-06-03,a,1005.0,53.57,42.33
+Morning Consult,218,1.0,2021-06-02,a,45000.0,53.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-02,lv,1500.0,50.0,49.0
+Morning Consult,218,1.0,2021-06-01,a,45000.0,53.0,38.0
+YouGov,391,0.93,2021-06-01,rv,1275.0,50.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-06-01,lv,1500.0,51.0,48.0
+HarrisX,133,1.05,2021-06-01,rv,1893.0,61.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-31,lv,1500.0,53.0,45.0
+Morning Consult,218,1.0,2021-05-31,a,45000.0,54.0,38.0
+SurveyMonkey,324,0.75,2021-05-31,rv,53592.0,52.0,47.0
+Morning Consult,218,1.0,2021-05-30,a,45000.0,54.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-30,lv,1500.0,53.0,45.0
+Morning Consult,218,1.0,2021-05-29,a,45000.0,54.0,38.0
+Morning Consult,218,1.0,2021-05-29,a,2199.0,56.0,37.0
+Morning Consult,218,1.0,2021-05-28,a,45000.0,54.0,38.0
+TIPP,144,1.3,2021-05-28,rv,1006.0,59.0,32.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-27,lv,1500.0,55.0,43.0
+Morning Consult,218,1.0,2021-05-27,a,45000.0,54.0,38.0
+Zogby,395,0.85,2021-05-27,lv,868.0,60.0,37.0
+Ipsos,154,1.05,2021-05-27,a,1005.0,51.57,44.01
+"Cor Services, Inc.",688,0.6,2021-05-26,lv,519.0,51.0,42.0
+YouGov,391,0.93,2021-05-26,a,1588.0,49.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-26,lv,1500.0,53.0,45.0
+Morning Consult,218,1.0,2021-05-26,a,45000.0,54.0,38.0
+YouGov,391,0.93,2021-05-25,rv,1248.0,52.0,42.0
+Morning Consult,218,1.0,2021-05-25,a,45000.0,54.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-25,lv,1500.0,55.0,43.0
+Beacon Research/Shaw & Company,103,1.0,2021-05-25,rv,1003.0,54.0,42.0
+Morning Consult,218,1.0,2021-05-24,a,2200.0,54.0,39.0
+Morning Consult,218,1.0,2021-05-24,rv,1993.0,55.0,41.0
+Quinnipiac,267,1.0,2021-05-24,rv,1174.0,49.0,42.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-05-24,rv,1204.0,53.0,44.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-24,lv,1500.0,54.0,44.0
+Morning Consult,218,1.0,2021-05-24,a,45000.0,54.0,39.0
+Morning Consult,218,1.0,2021-05-23,a,45000.0,54.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-23,lv,1500.0,54.0,43.0
+Leger,572,0.9,2021-05-23,a,1002.0,51.0,38.0
+Morning Consult,218,1.0,2021-05-22,a,2200.0,56.0,38.0
+Morning Consult,218,1.0,2021-05-22,a,45000.0,54.0,39.0
+Morning Consult,218,1.0,2021-05-21,a,45000.0,54.0,38.0
+American Research Group,9,0.75,2021-05-20,rv,987.0,57.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-20,lv,1500.0,52.0,46.0
+John Zogby Strategies,583,0.9,2021-05-20,lv,1011.0,59.0,40.0
+Ipsos,154,1.05,2021-05-20,a,1004.0,55.87,39.12
+Harris Poll,133,1.05,2021-05-20,rv,973.0,62.0,38.0
+Harris Poll,133,1.05,2021-05-20,rv,973.0,61.0,36.0
+Morning Consult,218,1.0,2021-05-20,a,45000.0,54.0,38.0
+Morning Consult,218,1.0,2021-05-20,rv,1994.0,59.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-19,lv,1500.0,52.0,46.0
+HarrisX,133,1.05,2021-05-19,rv,1889.0,60.0,40.0
+Morning Consult,218,1.0,2021-05-19,a,45000.0,54.0,38.0
+Morning Consult,218,1.0,2021-05-19,a,2200.0,57.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-18,lv,1500.0,51.0,48.0
+McLaughlin,203,0.4,2021-05-18,lv,1000.0,56.0,43.0
+Morning Consult,218,1.0,2021-05-18,a,45000.0,54.0,38.0
+Gallup,112,1.05,2021-05-18,a,1016.0,54.0,40.0
+YouGov,391,0.93,2021-05-18,rv,1239.0,51.0,43.0
+Morning Consult,218,1.0,2021-05-17,rv,1992.0,54.0,42.0
+Morning Consult,218,1.0,2021-05-17,a,45000.0,54.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-17,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-05-17,a,2200.0,56.0,38.0
+Echelon Insights,407,0.9,2021-05-17,rv,1132.0,56.0,42.0
+Morning Consult,218,1.0,2021-05-16,a,45000.0,54.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-16,lv,1500.0,51.0,48.0
+Morning Consult,218,1.0,2021-05-16,a,2200.0,56.0,36.0
+Morning Consult,218,1.0,2021-05-15,a,2200.0,57.0,38.0
+Morning Consult,218,1.0,2021-05-15,a,45000.0,54.0,37.0
+Morning Consult,218,1.0,2021-05-15,a,2200.0,55.0,39.0
+Morning Consult,218,1.0,2021-05-14,a,45000.0,54.0,37.0
+Morning Consult,218,1.0,2021-05-13,a,45000.0,54.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-13,lv,1500.0,49.0,50.0
+YouGov,391,0.93,2021-05-13,a,1561.0,49.0,40.0
+Ipsos,154,1.05,2021-05-12,a,1005.0,55.91,38.48
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-12,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-05-12,a,45000.0,55.0,37.0
+YouGov,391,0.93,2021-05-11,rv,1204.0,52.0,44.0
+Morning Consult,218,1.0,2021-05-11,a,45000.0,55.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-11,lv,1500.0,48.0,50.0
+Civiqs,471,0.75,2021-05-11,rv,1464.0,48.0,46.0
+Morning Consult,218,1.0,2021-05-10,a,45000.0,55.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-10,lv,1500.0,50.0,48.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-05-10,rv,1000.0,55.0,41.0
+Leger,572,0.9,2021-05-09,a,1003.0,52.0,38.0
+Morning Consult,218,1.0,2021-05-09,a,2200.0,55.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-09,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-05-09,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-05-09,rv,1994.0,56.0,40.0
+Redfield & Wilton Strategies,562,0.3,2021-05-09,rv,1500.0,52.0,36.0
+Morning Consult,218,1.0,2021-05-08,a,45000.0,55.0,36.0
+Marist,183,1.0,2021-05-07,rv,1075.0,53.0,42.0
+Morning Consult,218,1.0,2021-05-07,a,45000.0,56.0,36.0
+Trafalgar Group,338,1.05,2021-05-06,lv,1574.0,48.3,47.5
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-06,lv,1500.0,51.0,47.0
+Morning Consult,218,1.0,2021-05-06,a,45000.0,56.0,36.0
+Morning Consult,218,1.0,2021-05-06,a,2200.0,56.0,38.0
+Morning Consult,218,1.0,2021-05-05,a,45000.0,56.0,36.0
+Ipsos,154,1.05,2021-05-05,a,1005.0,54.92,38.02
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-05,lv,1500.0,51.0,47.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-04,lv,1500.0,50.0,47.0
+YouGov,391,0.93,2021-05-04,rv,1187.0,49.0,46.0
+Morning Consult,218,1.0,2021-05-04,a,45000.0,56.0,36.0
+HarrisX,133,1.05,2021-05-04,rv,939.0,60.0,40.0
+Morning Consult,218,1.0,2021-05-03,a,45000.0,56.0,36.0
+Morning Consult,218,1.0,2021-05-03,rv,1991.0,57.0,38.0
+Morning Consult,218,1.0,2021-05-03,a,2200.0,57.0,36.0
+AP-NORC,397,0.6,2021-05-03,a,1842.0,63.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-03,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-05-02,a,2200.0,53.0,39.0
+Morning Consult,218,1.0,2021-05-02,a,45000.0,56.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-05-02,lv,1500.0,48.0,49.0
+Morning Consult,218,1.0,2021-05-02,a,2200.0,55.0,38.0
+Morning Consult,218,1.0,2021-05-01,a,45000.0,56.0,36.0
+SurveyMonkey,324,0.75,2021-04-30,rv,48931.0,52.0,47.0
+TIPP,144,1.3,2021-04-30,rv,1057.0,55.0,35.0
+Morning Consult,218,1.0,2021-04-30,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-04-29,a,45000.0,55.0,36.0
+Harris Poll,133,1.05,2021-04-29,rv,924.0,60.0,40.0
+YouGov,391,0.93,2021-04-29,a,1558.0,54.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-29,lv,1500.0,47.0,51.0
+Harris Poll,133,1.05,2021-04-29,rv,940.0,59.0,38.0
+Morning Consult,218,1.0,2021-04-28,a,45000.0,55.0,36.0
+HarrisX,133,1.05,2021-04-28,rv,2819.0,60.0,40.0
+Morning Consult,218,1.0,2021-04-28,a,2200.0,60.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-28,lv,1500.0,48.0,50.0
+Ipsos,154,1.05,2021-04-28,a,1005.0,55.18,37.62
+Morning Consult,218,1.0,2021-04-27,a,22000.0,57.0,36.0
+YouGov,391,0.93,2021-04-27,rv,1219.0,52.0,41.0
+Morning Consult,218,1.0,2021-04-27,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-27,lv,1500.0,48.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-26,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-04-26,rv,14872.0,57.0,39.0
+Morning Consult,218,1.0,2021-04-26,rv,1991.0,60.0,37.0
+SSRS,297,0.65,2021-04-26,rv,,52.0,45.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-04-26,rv,989.0,53.0,44.0
+Morning Consult,218,1.0,2021-04-26,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-25,lv,1500.0,51.0,47.0
+Research Co.,449,1.0,2021-04-25,a,1000.0,53.0,42.0
+Morning Consult,218,1.0,2021-04-25,rv,1986.0,57.0,37.0
+Morning Consult,218,1.0,2021-04-25,a,45000.0,54.0,36.0
+Leger,572,0.9,2021-04-25,a,1003.0,51.0,39.0
+Morning Consult,218,1.0,2021-04-24,a,45000.0,54.0,37.0
+YouGov,391,0.93,2021-04-24,a,2527.0,58.0,42.0
+Morning Consult,218,1.0,2021-04-23,a,45000.0,54.0,37.0
+YouGov,391,0.93,2021-04-23,a,1000.0,51.0,44.0
+Echelon Insights,407,0.9,2021-04-23,rv,1043.0,54.0,43.0
+Morning Consult,218,1.0,2021-04-22,a,2200.0,58.0,35.0
+Morning Consult,218,1.0,2021-04-22,a,45000.0,54.0,37.0
+Ipsos,154,1.05,2021-04-22,a,1004.0,54.49,38.76
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-22,lv,1500.0,52.0,46.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-21,lv,1500.0,50.0,49.0
+Marist,183,1.0,2021-04-21,rv,1688.0,54.0,44.0
+Gallup,112,1.05,2021-04-21,a,961.0,57.0,40.0
+Beacon Research/Shaw & Company,103,1.0,2021-04-21,rv,1002.0,54.0,43.0
+ABC/Washington Post,3,1.2,2021-04-21,a,1007.0,52.21,42.09
+Morning Consult,218,1.0,2021-04-21,a,45000.0,54.0,37.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-04-20,rv,790.0,51.0,43.0
+Morning Consult,218,1.0,2021-04-20,a,45000.0,53.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-20,lv,1500.0,50.0,48.0
+YouGov,391,0.93,2021-04-20,rv,1225.0,51.0,42.0
+American Research Group,9,0.75,2021-04-20,rv,988.0,59.0,35.0
+Change Research,48,0.85,2021-04-20,rv,1025.0,51.0,49.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-19,lv,1500.0,50.0,49.0
+HarrisX,133,1.05,2021-04-19,rv,2881.0,61.0,39.0
+Morning Consult,218,1.0,2021-04-19,a,2200.0,58.0,35.0
+Morning Consult,218,1.0,2021-04-19,a,2200.0,58.0,35.0
+Morning Consult,218,1.0,2021-04-19,a,45000.0,54.0,38.0
+Morning Consult,218,1.0,2021-04-19,rv,1992.0,58.0,38.0
+Hart Research Associates,113,0.65,2021-04-18,rv,1200.0,57.0,43.0
+Morning Consult,218,1.0,2021-04-18,a,45000.0,54.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-18,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-04-17,a,45000.0,54.0,37.0
+Ipsos,154,1.05,2021-04-16,a,4423.0,55.0,40.0
+Morning Consult,218,1.0,2021-04-16,a,45000.0,55.0,37.0
+Ipsos,154,1.05,2021-04-16,a,4423.0,55.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-15,lv,1500.0,49.0,49.0
+Ipsos,154,1.05,2021-04-15,a,1005.0,54.35,37.56
+Morning Consult,218,1.0,2021-04-15,a,45000.0,54.0,37.0
+Morning Consult,218,1.0,2021-04-14,a,45000.0,54.0,37.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-14,lv,1500.0,50.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-13,lv,1500.0,50.0,48.0
+YouGov,391,0.93,2021-04-13,rv,1263.0,51.0,43.0
+Morning Consult,218,1.0,2021-04-13,a,45000.0,55.0,36.0
+Marist,183,1.0,2021-04-13,rv,1066.0,52.0,41.0
+McLaughlin,203,0.4,2021-04-13,lv,1000.0,57.5,40.5
+HarrisX,133,1.05,2021-04-13,rv,3766.0,61.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-12,lv,1500.0,50.0,48.0
+Monmouth U.,215,1.0,2021-04-12,rv,743.0,53.0,43.0
+Morning Consult,218,1.0,2021-04-12,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-04-12,rv,1992.0,59.0,37.0
+Civiqs,471,0.75,2021-04-12,rv,1541.0,48.0,47.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-04-12,rv,1256.0,55.0,42.0
+Quinnipiac,267,1.0,2021-04-12,rv,1114.0,50.0,42.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-11,lv,1500.0,50.0,48.0
+Winston,385,0.9,2021-04-11,rv,1000.0,54.0,35.0
+Pew,253,0.9,2021-04-11,a,5109.0,59.0,39.0
+Morning Consult,218,1.0,2021-04-11,a,45000.0,54.0,37.0
+Hart Research Associates/Public Opinion Strategies,221,1.1,2021-04-11,a,802.0,47.0,41.0
+Morning Consult,218,1.0,2021-04-10,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-04-09,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-04-08,a,45000.0,55.0,36.0
+YouGov,391,0.93,2021-04-08,a,1649.0,52.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-08,lv,1500.0,50.0,48.0
+Ipsos,154,1.05,2021-04-08,a,1005.0,56.17,37.46
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-07,lv,1500.0,51.0,48.0
+Morning Consult,218,1.0,2021-04-07,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-04-06,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-06,lv,1500.0,49.0,50.0
+YouGov,391,0.93,2021-04-06,rv,1243.0,52.0,42.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-05,lv,1500.0,47.0,51.0
+Morning Consult,218,1.0,2021-04-05,a,45000.0,55.0,36.0
+HarrisX,133,1.05,2021-04-05,rv,2732.0,61.0,39.0
+Morning Consult,218,1.0,2021-04-04,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-04-04,rv,1989.0,59.0,37.0
+Morning Consult,218,1.0,2021-04-04,a,2200.0,54.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-04,lv,1500.0,47.0,51.0
+Morning Consult,218,1.0,2021-04-03,a,45000.0,54.0,36.0
+TIPP,144,1.3,2021-04-03,rv,1215.0,59.0,34.0
+Morning Consult,218,1.0,2021-04-02,a,2200.0,57.0,36.0
+Morning Consult,218,1.0,2021-04-02,a,45000.0,54.0,36.0
+Morning Consult,218,1.0,2021-04-02,a,2200.0,57.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-04-01,lv,1500.0,48.0,50.0
+Morning Consult,218,1.0,2021-04-01,a,45000.0,54.0,36.0
+Ipsos,154,1.05,2021-04-01,a,1005.0,54.0,40.8
+SurveyMonkey,324,0.75,2021-03-31,rv,82070.0,53.0,46.0
+Morning Consult,218,1.0,2021-03-31,a,45000.0,54.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-31,lv,1500.0,48.0,50.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-30,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-03-30,a,45000.0,54.0,36.0
+YouGov,391,0.93,2021-03-30,rv,1259.0,50.0,43.0
+Morning Consult,218,1.0,2021-03-29,rv,2043.0,58.0,39.0
+AP-NORC,397,0.6,2021-03-29,a,1166.0,61.0,38.0
+Morning Consult,218,1.0,2021-03-29,a,2041.0,55.0,38.0
+Morning Consult,218,1.0,2021-03-29,a,45000.0,54.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-29,lv,1500.0,48.0,50.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-03-29,rv,1002.0,55.0,41.0
+GBAO,109,0.6,2021-03-29,rv,2000.0,54.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-28,lv,1500.0,49.0,50.0
+Morning Consult,218,1.0,2021-03-28,a,45000.0,54.0,36.0
+Morning Consult,218,1.0,2021-03-28,a,2200.0,57.0,36.0
+Morning Consult,218,1.0,2021-03-27,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-03-26,a,2080.0,58.0,36.0
+SurveyMonkey,324,0.75,2021-03-26,a,16336.0,56.0,42.0
+HarrisX,133,1.05,2021-03-26,rv,1882.0,61.0,39.0
+Morning Consult,218,1.0,2021-03-26,a,2200.0,56.0,37.0
+Morning Consult,218,1.0,2021-03-26,a,45000.0,55.0,36.0
+Marist,183,1.0,2021-03-25,rv,1167.0,52.0,41.0
+Harris Poll,133,1.05,2021-03-25,rv,1945.0,61.0,39.0
+YouGov,391,0.93,2021-03-25,a,1606.0,53.0,36.0
+Ipsos,154,1.05,2021-03-25,a,1005.0,53.46,40.66
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-25,lv,1500.0,48.0,51.0
+Morning Consult,218,1.0,2021-03-25,a,45000.0,56.0,36.0
+Morning Consult,218,1.0,2021-03-24,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-24,lv,1500.0,47.0,51.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-23,lv,1500.0,48.0,50.0
+Morning Consult,218,1.0,2021-03-23,a,45000.0,55.0,36.0
+YouGov,391,0.93,2021-03-23,rv,1267.0,51.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-22,lv,1500.0,48.0,50.0
+Morning Consult,218,1.0,2021-03-22,rv,1994.0,57.0,40.0
+Morning Consult,218,1.0,2021-03-22,a,2200.0,60.0,35.0
+Morning Consult,218,1.0,2021-03-22,a,2200.0,56.0,37.0
+Climate Nexus,506,0.6,2021-03-22,rv,1310.0,54.0,40.0
+HarrisX,133,1.05,2021-03-22,rv,2858.0,60.0,40.0
+Morning Consult,218,1.0,2021-03-22,a,45000.0,56.0,36.0
+Morning Consult,218,1.0,2021-03-22,a,2200.0,57.0,35.0
+Redfield & Wilton Strategies,562,0.3,2021-03-22,rv,1500.0,53.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-21,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-03-21,a,45000.0,55.0,36.0
+Echelon Insights,407,0.9,2021-03-21,rv,1008.0,51.0,44.0
+Morning Consult,218,1.0,2021-03-20,a,45000.0,56.0,35.0
+RMG Research,555,0.85,2021-03-20,rv,1200.0,60.0,34.0
+American Research Group,9,0.75,2021-03-20,rv,989.0,60.0,34.0
+Morning Consult,218,1.0,2021-03-19,a,2200.0,60.0,33.0
+Morning Consult,218,1.0,2021-03-19,a,45000.0,56.0,35.0
+Ipsos,154,1.05,2021-03-18,a,1005.0,58.74,35.39
+Morning Consult,218,1.0,2021-03-18,a,45000.0,56.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-18,lv,1500.0,52.0,48.0
+Morning Consult,218,1.0,2021-03-17,a,45000.0,56.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-17,lv,1500.0,51.0,47.0
+YouGov,391,0.93,2021-03-17,rv,1218.0,55.0,41.0
+Morning Consult,218,1.0,2021-03-16,a,45000.0,56.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-16,lv,1500.0,52.0,46.0
+Civiqs,471,0.75,2021-03-16,rv,1673.0,51.0,44.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-03-15,rv,1001.0,56.0,40.0
+Gallup,112,1.05,2021-03-15,a,1010.0,54.0,42.0
+Morning Consult,218,1.0,2021-03-15,rv,1993.0,62.0,34.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-15,lv,1500.0,51.0,47.0
+Morning Consult,218,1.0,2021-03-15,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-14,lv,1500.0,52.0,46.0
+Morning Consult,218,1.0,2021-03-14,a,45000.0,56.0,35.0
+HarrisX,133,1.05,2021-03-14,rv,2839.0,59.0,41.0
+YouGov,391,0.93,2021-03-13,a,2382.0,62.0,38.0
+Morning Consult,218,1.0,2021-03-13,a,45000.0,56.0,35.0
+RMG Research,555,0.85,2021-03-13,rv,1200.0,57.0,37.0
+Morning Consult,218,1.0,2021-03-12,a,45000.0,55.0,36.0
+Ipsos,154,1.05,2021-03-11,a,1001.0,53.76,39.11
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-11,lv,1500.0,51.0,47.0
+Morning Consult,218,1.0,2021-03-11,a,45000.0,55.0,36.0
+YouGov,391,0.93,2021-03-10,a,1306.0,60.0,40.0
+Morning Consult,218,1.0,2021-03-10,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-10,lv,1500.0,50.0,47.0
+Morning Consult,218,1.0,2021-03-09,a,45000.0,55.0,36.0
+YouGov,391,0.93,2021-03-09,rv,1242.0,52.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-09,lv,1500.0,50.0,48.0
+Bullfinch,692,0.6,2021-03-08,rv,1000.0,56.0,37.0
+Morning Consult,218,1.0,2021-03-08,a,2201.0,58.0,34.0
+Morning Consult,218,1.0,2021-03-08,rv,1990.0,59.0,37.0
+SSRS,297,0.65,2021-03-08,rv,,50.0,44.0
+HarrisX,133,1.05,2021-03-08,rv,2839.0,58.0,42.0
+Marist,183,1.0,2021-03-08,rv,1082.0,48.0,43.0
+Morning Consult,218,1.0,2021-03-08,a,45000.0,55.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-08,lv,1500.0,50.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-07,lv,1500.0,49.0,49.0
+Pew,253,0.9,2021-03-07,a,6011.0,54.0,42.0
+Climate Nexus,506,0.6,2021-03-07,rv,1624.0,53.0,39.0
+Morning Consult,218,1.0,2021-03-07,a,45000.0,55.0,36.0
+Morning Consult,218,1.0,2021-03-06,a,45000.0,54.0,36.0
+RMG Research,555,0.85,2021-03-06,rv,1200.0,53.0,39.0
+Morning Consult,218,1.0,2021-03-05,a,45000.0,54.0,36.0
+Ipsos,154,1.05,2021-03-04,a,1005.0,57.86,34.53
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-04,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-03-04,a,45000.0,54.0,36.0
+Morning Consult,218,1.0,2021-03-03,a,45000.0,54.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-03,lv,1500.0,49.0,48.0
+YouGov,391,0.93,2021-03-02,rv,1191.0,52.0,42.0
+Morning Consult,218,1.0,2021-03-02,a,15000.0,54.0,36.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-02,lv,1500.0,50.0,47.0
+Morning Consult,218,1.0,2021-03-01,a,2200.0,56.0,37.0
+AP-NORC,397,0.6,2021-03-01,a,1434.0,60.0,40.0
+Morning Consult,218,1.0,2021-03-01,a,15000.0,54.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-03-01,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-03-01,rv,1992.0,57.0,37.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-03-01,rv,1007.0,53.0,41.0
+Monmouth U.,215,1.0,2021-03-01,rv,731.0,50.0,43.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-28,lv,1500.0,49.0,48.0
+SurveyMonkey,324,0.75,2021-02-28,rv,65088.0,55.0,44.0
+Leger,572,0.9,2021-02-28,a,1002.0,48.0,38.0
+McLaughlin,203,0.4,2021-02-28,lv,1000.0,55.0,40.0
+Morning Consult,218,1.0,2021-02-28,a,15000.0,54.0,35.0
+Morning Consult,218,1.0,2021-02-27,a,15000.0,54.0,35.0
+RMG Research,555,0.85,2021-02-27,rv,1200.0,54.0,40.0
+TIPP,144,1.3,2021-02-27,rv,1058.0,57.0,32.0
+PPP,263,1.0,2021-02-27,rv,1390.0,47.0,43.0
+HarrisX,133,1.05,2021-02-26,rv,1909.0,58.0,42.0
+Morning Consult,218,1.0,2021-02-26,a,15000.0,54.0,35.0
+Morning Consult,218,1.0,2021-02-25,a,15000.0,54.0,35.0
+Harris Poll,133,1.05,2021-02-25,rv,1778.0,61.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-25,lv,1500.0,49.0,49.0
+Ipsos,154,1.05,2021-02-25,a,1004.0,56.54,37.44
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-24,lv,1500.0,50.0,48.0
+Morning Consult,218,1.0,2021-02-24,a,15000.0,54.0,35.0
+Marist,183,1.0,2021-02-24,a,1275.0,51.0,38.0
+HarrisX,133,1.05,2021-02-24,rv,949.0,59.0,41.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-23,lv,1500.0,49.0,49.0
+GQR,126,0.93,2021-02-23,rv,1000.0,52.0,38.0
+GQR,126,0.93,2021-02-23,rv,1000.0,51.0,39.0
+GQR,126,0.93,2021-02-23,rv,1000.0,52.0,37.0
+Morning Consult,218,1.0,2021-02-23,a,15000.0,54.0,35.0
+Morning Consult,218,1.0,2021-02-22,a,15000.0,54.0,35.0
+YouGov,391,0.93,2021-02-22,a,1556.0,50.0,38.0
+Morning Consult,218,1.0,2021-02-22,rv,2013.0,58.0,36.0
+YouGov,391,0.93,2021-02-22,rv,1201.0,51.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-22,lv,1500.0,50.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-21,lv,1500.0,50.0,49.0
+Morning Consult,218,1.0,2021-02-21,a,15000.0,54.0,35.0
+Morning Consult,218,1.0,2021-02-21,a,2200.0,57.0,33.0
+Hart Research Associates,113,0.65,2021-02-21,v,1000.0,58.0,42.0
+American Research Group,9,0.75,2021-02-20,rv,990.0,59.0,34.0
+Morning Consult,218,1.0,2021-02-20,a,15000.0,54.0,35.0
+RMG Research,555,0.85,2021-02-20,rv,1200.0,56.0,37.0
+Morning Consult,218,1.0,2021-02-19,a,15000.0,54.0,35.0
+Morning Consult,218,1.0,2021-02-18,a,15000.0,54.0,35.0
+Echelon Insights,407,0.9,2021-02-18,rv,1005.0,51.0,42.0
+Gallup,112,1.05,2021-02-18,a,1021.0,56.0,40.0
+Ipsos,154,1.05,2021-02-18,a,1005.0,55.5,35.95
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-18,lv,1500.0,49.0,49.0
+Morning Consult,218,1.0,2021-02-17,a,15000.0,54.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-17,lv,1500.0,50.0,48.0
+YouGov,391,0.93,2021-02-16,rv,1259.0,55.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-16,lv,1500.0,50.0,47.0
+Morning Consult,218,1.0,2021-02-16,a,15000.0,54.0,34.0
+Morning Consult,218,1.0,2021-02-15,rv,1984.0,62.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-15,lv,1500.0,53.0,44.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-02-15,rv,1067.0,56.0,38.0
+Morning Consult,218,1.0,2021-02-15,a,4400.0,56.0,35.0
+Morning Consult,218,1.0,2021-02-15,a,2200.0,56.0,34.0
+Morning Consult,218,1.0,2021-02-15,rv,1987.0,56.0,38.0
+Morning Consult,218,1.0,2021-02-15,a,15000.0,54.0,34.0
+HarrisX,133,1.05,2021-02-15,rv,2835.0,59.0,41.0
+Quinnipiac,267,1.0,2021-02-14,rv,960.0,52.0,38.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-14,lv,1500.0,53.0,43.0
+Saint Leo U.,299,0.3,2021-02-14,a,1000.0,60.9,32.3
+Morning Consult,218,1.0,2021-02-14,a,15000.0,54.0,34.0
+Morning Consult,218,1.0,2021-02-13,a,15000.0,55.0,34.0
+RMG Research,555,0.85,2021-02-13,rv,1200.0,57.0,35.0
+Morning Consult,218,1.0,2021-02-12,a,15000.0,55.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-11,lv,1500.0,52.0,45.0
+Morning Consult,218,1.0,2021-02-11,a,15000.0,55.0,33.0
+Morning Consult,218,1.0,2021-02-10,a,15000.0,55.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-10,lv,1500.0,50.0,47.0
+Ipsos,154,1.05,2021-02-10,a,1001.0,57.42,35.18
+Morning Consult,218,1.0,2021-02-09,a,15000.0,55.0,33.0
+HarrisX,133,1.05,2021-02-09,rv,938.0,60.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-09,lv,1500.0,51.0,47.0
+YouGov,391,0.93,2021-02-09,rv,1306.0,53.0,40.0
+YouGov,391,0.93,2021-02-08,a,2508.0,61.0,39.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-08,lv,1500.0,51.0,46.0
+Morning Consult,218,1.0,2021-02-08,a,15000.0,55.0,33.0
+Morning Consult,218,1.0,2021-02-07,a,15000.0,55.0,33.0
+Morning Consult,218,1.0,2021-02-07,rv,1986.0,59.0,35.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-07,lv,1500.0,50.0,47.0
+RMG Research,555,0.85,2021-02-06,rv,1200.0,60.0,32.0
+Morning Consult,218,1.0,2021-02-06,a,15000.0,54.0,34.0
+Morning Consult,218,1.0,2021-02-05,a,15000.0,54.0,34.0
+Morning Consult,218,1.0,2021-02-04,a,15000.0,54.0,34.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-04,lv,1500.0,49.0,48.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-03,lv,1500.0,52.0,46.0
+Morning Consult,218,1.0,2021-02-03,a,15000.0,54.0,33.0
+Ipsos,154,1.05,2021-02-03,a,1005.0,57.46,34.28
+Emerson College Polling Society,88,1.05,2021-02-03,a,1429.0,49.0,39.0
+Gallup,112,1.05,2021-02-02,a,906.0,57.0,37.0
+Morning Consult,218,1.0,2021-02-02,a,15000.0,54.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-02,lv,1500.0,51.0,47.0
+YouGov,391,0.93,2021-02-02,rv,1272.0,50.0,40.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-02-01,lv,1500.0,51.0,45.0
+Morning Consult,218,1.0,2021-02-01,a,2200.0,57.0,33.0
+AP-NORC,397,0.6,2021-02-01,a,1055.0,61.0,38.0
+Quinnipiac,267,1.0,2021-02-01,rv,983.0,50.0,36.0
+Morning Consult,218,1.0,2021-02-01,rv,9000.0,56.0,37.0
+Morning Consult,218,1.0,2021-02-01,rv,1986.0,58.0,35.0
+Global Strategy Group/GBAO/Navigator Research,413,0.9,2021-02-01,rv,1005.0,53.0,39.0
+SurveyMonkey,324,0.75,2021-01-31,rv,33457.0,56.0,42.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-31,lv,1500.0,49.0,46.0
+Morning Consult,218,1.0,2021-01-31,a,15000.0,54.0,33.0
+RMG Research,555,0.85,2021-01-30,rv,1200.0,58.0,35.0
+Morning Consult,218,1.0,2021-01-30,a,2200.0,55.0,34.0
+Morning Consult,218,1.0,2021-01-30,a,2200.0,57.0,33.0
+Morning Consult,218,1.0,2021-01-30,a,15000.0,54.0,32.0
+John Zogby Strategies,583,0.9,2021-01-29,lv,841.0,56.1,36.4
+Morning Consult,218,1.0,2021-01-29,a,15000.0,54.0,32.0
+TIPP,144,1.3,2021-01-29,rv,1002.0,58.0,29.0
+HarrisX,133,1.05,2021-01-29,rv,945.0,61.0,39.0
+Morning Consult,218,1.0,2021-01-28,a,15000.0,54.0,32.0
+Morning Consult,218,1.0,2021-01-28,a,2200.0,56.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-28,lv,1500.0,50.0,45.0
+Morning Consult,218,1.0,2021-01-28,a,3423.0,56.0,31.0
+Marist,183,1.0,2021-01-27,rv,1153.0,50.0,36.0
+Morning Consult,218,1.0,2021-01-27,a,15000.0,54.0,31.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-27,lv,1500.0,49.0,48.0
+Morning Consult,218,1.0,2021-01-26,a,15000.0,53.0,30.0
+YouGov,391,0.93,2021-01-26,rv,1245.0,52.0,36.0
+Morning Consult,218,1.0,2021-01-26,a,2200.0,58.0,32.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-26,lv,1500.0,48.0,48.0
+Echelon Insights,407,0.9,2021-01-26,rv,1006.0,55.0,33.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-25,lv,1500.0,48.0,47.0
+Morning Consult,218,1.0,2021-01-25,a,2200.0,56.0,32.0
+Data for Progress,522,0.93,2021-01-25,lv,1164.0,57.0,36.0
+Morning Consult,218,1.0,2021-01-25,rv,1990.0,59.0,32.0
+Morning Consult,218,1.0,2021-01-25,a,15000.0,53.0,30.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-24,lv,1500.0,48.0,47.0
+Morning Consult,218,1.0,2021-01-24,rv,11444.0,56.0,34.0
+Monmouth U.,215,1.0,2021-01-24,rv,736.0,54.0,31.0
+Morning Consult,218,1.0,2021-01-23,a,15000.0,52.0,29.0
+RMG Research,555,0.85,2021-01-23,rv,1200.0,58.0,32.0
+HarrisX,133,1.05,2021-01-22,rv,941.0,63.0,37.0
+Morning Consult,218,1.0,2021-01-22,rv,9000.0,54.0,31.0
+Rasmussen (Pulse Opinion Research),277,0.93,2021-01-21,lv,1500.0,48.0,45.0
+Morning Consult,218,1.0,2021-01-21,a,15000.0,50.0,28.0
+YouGov,391,0.93,2021-01-21,a,1516.0,45.0,28.0
+Ipsos,154,1.05,2021-01-21,rv,950.0,57.0,32.0
+Morning Consult,218,1.0,2021-01-21,rv,1993.0,56.0,31.0

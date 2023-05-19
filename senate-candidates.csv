@@ -1,0 +1,105 @@
+﻿state,postal_code,web_id,inc,class,state_id,party,party_id,cand,cand_id
+Alabama,AL,alabama,,Class III,AL,R,REP,REP_CAND,REP_CAND
+Alabama,AL,alabama,,Class III,AL,D,DEM,DEM_CAND,DEM_CAND
+Alabama,AL,alabama,,Class III,AL,I,IND,IND_CAND,IND_CAND
+Alaska,AK,alaska,yes,Class III,AK,R,REP,Lisa Murkowski,Lisa Murkowski
+Alaska,AK,alaska,,Class III,AK,D,DEM,DEM_CAND,DEM_CAND
+Alaska,AK,alaska,,Class III,AK,I,IND,IND_CAND,IND_CAND
+Arizona,AZ,arizona,,Class III,AZ,R,REP,REP_CAND,REP_CAND
+Arizona,AZ,arizona,yes,Class III,AZ,D,DEM,Mark Kelly,Mark Kelly
+Arizona,AZ,arizona,,Class III,AZ,I,IND,IND_CAND,IND_CAND
+Arkansas,AR,arkansas,yes,Class III,AR,R,REP,John Boozman,John Boozman
+Arkansas,AR,arkansas,,Class III,AR,D,DEM,DEM_CAND,DEM_CAND
+Arkansas,AR,arkansas,,Class III,AR,I,IND,IND_CAND,IND_CAND
+California,CA,california,,Class III,CA,R,REP,REP_CAND,REP_CAND
+California,CA,california,yes,Class III,CA,D,DEM,Alex Padilla,Alex Padilla
+Colorado,CO,colorado,,Class III,CO,R,REP,REP_CAND,REP_CAND
+Colorado,CO,colorado,yes,Class III,CO,D,DEM,Michael Bennet,Michael Bennet
+Colorado,CO,colorado,,Class III,CO,I,IND,IND_CAND,IND_CAND
+Connecticut,CT,connecticut,,Class III,CT,R,REP,REP_CAND,REP_CAND
+Connecticut,CT,connecticut,yes,Class III,CT,D,DEM,Richard Blumenthal,Richard Blumenthal
+Connecticut,CT,connecticut,,Class III,CT,I,IND,IND_CAND,IND_CAND
+Florida,FL,florida,yes,Class III,FL,R,REP,Marco Rubio,Marco Rubio
+Florida,FL,florida,,Class III,FL,D,DEM,DEM_CAND,DEM_CAND
+Florida,FL,florida,,Class III,FL,I,IND,IND_CAND,IND_CAND
+Georgia,GA,georgia,,Class III,GA,R,REP,REP_CAND,REP_CAND
+Georgia,GA,georgia,yes,Class III,GA,D,DEM,Raphael Warnock,Raphael Warnock
+Georgia,GA,georgia,,Class III,GA,I,IND,IND_CAND,IND_CAND
+Hawaii,HI,hawaii,,Class III,HI,R,REP,REP_CAND,REP_CAND
+Hawaii,HI,hawaii,yes,Class III,HI,D,DEM,Brian Schatz,Brian Schatz
+Hawaii,HI,hawaii,,Class III,HI,I,IND,IND_CAND,IND_CAND
+Idaho,ID,idaho,yes,Class III,ID,R,REP,Mike Crapo,Mike Crapo
+Idaho,ID,idaho,,Class III,ID,D,DEM,DEM_CAND,DEM_CAND
+Idaho,ID,idaho,,Class III,ID,I,IND,IND_CAND,IND_CAND
+Illinois,IL,illinois,,Class III,IL,R,REP,REP_CAND,REP_CAND
+Illinois,IL,illinois,,Class III,IL,D,DEM,Tammy Duckworth,Tammy Duckworth
+Illinois,IL,illinois,,Class III,IL,I,IND,IND_CAND,IND_CAND
+Indiana,IN,indiana,yes,Class III,IN,R,REP,Todd Young,Todd Young
+Indiana,IN,indiana,,Class III,IN,D,DEM,DEM_CAND,DEM_CAND
+Indiana,IN,indiana,,Class III,IN,I,IND,IND_CAND,IND_CAND
+Iowa,IA,iowa,yes,Class III,IA,R,REP,Chuck Grassley,Chuck Grassley
+Iowa,IA,iowa,,Class III,IA,D,DEM,DEM_CAND,DEM_CAND
+Iowa,IA,iowa,,Class III,IA,I,IND,IND_CAND,IND_CAND
+Kansas,KS,kansas,yes,Class III,KS,R,REP,Jerry Moran,Jerry Moran
+Kansas,KS,kansas,,Class III,KS,D,DEM,DEM_CAND,DEM_CAND
+Kansas,KS,kansas,,Class III,KS,I,IND,IND_CAND,IND_CAND
+Kentucky,KY,kentucky,yes,Class III,KY,R,REP,Rand Paul,Rand Paul
+Kentucky,KY,kentucky,,Class III,KY,D,DEM,DEM_CAND,DEM_CAND
+Kentucky,KY,kentucky,,Class III,KY,I,IND,IND_CAND,IND_CAND
+Louisiana,LA,louisiana,yes,Class III,LA,R,REP,John Kennedy,John Kennedy
+Louisiana,LA,louisiana,,Class III,LA,D,DEM,DEM_CAND,DEM_CAND
+Louisiana,LA,louisiana,,Class III,LA,I,IND,IND_CAND,IND_CAND
+Maryland,MD,maryland,,Class III,MD,R,REP,REP_CAND,REP_CAND
+Maryland,MD,maryland,yes,Class III,MD,D,DEM,Chris Van Hollen,Chris Van Hollen
+Maryland,MD,maryland,,Class III,MD,I,IND,IND_CAND,IND_CAND
+Missouri,MO,missouri,,Class III,MO,R,REP,REP_CAND,REP_CAND
+Missouri,MO,missouri,,Class III,MO,D,DEM,DEM_CAND,DEM_CAND
+Missouri,MO,missouri,,Class III,MO,I,IND,IND_CAND,IND_CAND
+Nevada,NV,nevada,,Class III,NV,R,REP,REP_CAND,REP_CAND
+Nevada,NV,nevada,yes,Class III,NV,D,DEM,Catherine Cortez Mastro,Catherine Cortez Mastro
+Nevada,NV,nevada,,Class III,NV,I,IND,IND_CAND,IND_CAND
+New Hampshire,NH,new-hampshire,,Class III,NH,R,REP,REP_CAND,REP_CAND
+New Hampshire,NH,new-hampshire,yes,Class III,NH,D,DEM,Maggie Hassan,Maggie Hassan
+New Hampshire,NH,new-hampshire,,Class III,NH,I,IND,IND_CAND,IND_CAND
+New York,NY,new-york,,Class III,NY,R,REP,REP_CAND,REP_CAND
+New York,NY,new-york,yes,Class III,NY,D,DEM,Chuck Schumer,Chuck Schumer
+New York,NY,new-york,,Class III,NY,I,IND,IND_CAND,IND_CAND
+North Carolina,NC,north-carolina,,Class III,NC,R,REP,REP_CAND,REP_CAND
+North Carolina,NC,north-carolina,,Class III,NC,D,DEM,DEM_CAND,DEM_CAND
+North Carolina,NC,north-carolina,,Class III,NC,I,IND,IND_CAND,IND_CAND
+North Dakota,ND,north-dakota,yes,Class III,ND,R,REP,John Hoeven,John Hoeven
+North Dakota,ND,north-dakota,,Class III,ND,D,DEM,DEM_CAND,DEM_CAND
+North Dakota,ND,north-dakota,,Class III,ND,I,IND,IND_CAND,IND_CAND
+Ohio,OH,ohio,,Class III,OH,R,REP,REP_CAND,REP_CAND
+Ohio,OH,ohio,,Class III,OH,D,DEM,DEM_CAND,DEM_CAND
+Ohio,OH,ohio,,Class III,OH,I,IND,IND_CAND,IND_CAND
+Oklahoma,OK,oklahoma,yes,Class III,OK,R,REP,James Lankford,James Lankford
+Oklahoma,OK,oklahoma,,Class III,OK,D,DEM,DEM_CAND,DEM_CAND
+Oklahoma,OK,oklahoma,,Class III,OK,I,IND,IND_CAND,IND_CAND
+Oklahoma*,OK*,oklahoma-special,,Class II,OKS,R,REP,REP_CAND,REP_CAND
+Oklahoma*,OK*,oklahoma-special,,Class II,OKS,D,DEM,DEM_CAND,DEM_CAND
+Oklahoma*,OK*,oklahoma-special,,Class II,OKS,I,IND,IND_CAND,IND_CAND
+Oregon,OR,oregon,,Class III,OR,R,REP,REP_CAND,REP_CAND
+Oregon,OR,oregon,yes,Class III,OR,D,DEM,Ron Wyden,Ron Wyden
+Oregon,OR,oregon,,Class III,OR,I,IND,IND_CAND,IND_CAND
+Pennsylvania,PA,pennsylvania,,Class III,PA,R,REP,REP_CAND,REP_CAND
+Pennsylvania,PA,pennsylvania,,Class III,PA,D,DEM,DEM_CAND,DEM_CAND
+Pennsylvania,PA,pennsylvania,,Class III,PA,I,IND,IND_CAND,IND_CAND
+South Carolina,SC,south-carolina,yes,Class III,SC,R,REP,Tim Scott,Tim Scott
+South Carolina,SC,south-carolina,,Class III,SC,D,DEM,DEM_CAND,DEM_CAND
+South Carolina,SC,south-carolina,,Class III,SC,I,IND,IND_CAND,IND_CAND
+South Dakota,SD,south-dakota,yes,Class III,SD,R,REP,John Thune,John Thune
+South Dakota,SD,south-dakota,,Class III,SD,D,DEM,DEM_CAND,DEM_CAND
+South Dakota,SD,south-dakota,,Class III,SD,I,IND,IND_CAND,IND_CAND
+Utah,UT,utah,yes,Class III,UT,R,REP,Mike Lee,Mike Lee
+Utah,UT,utah,,Class III,UT,D,DEM,DEM_CAND,DEM_CAND
+Utah,UT,utah,,Class III,UT,I,IND,IND_CAND,IND_CAND
+Vermont,VT,vermont,,Class III,VT,R,REP,REP_CAND,REP_CAND
+Vermont,VT,vermont,,Class III,VT,D,DEM,DEM_CAND,DEM_CAND
+Vermont,VT,vermont,,Class III,VT,I,IND,IND_CAND,IND_CAND
+Washington,WA,washington,,Class III,WA,R,REP,REP_CAND,REP_CAND
+Washington,WA,washington,yes,Class III,WA,D,DEM,Patty Murray,Patty Murray
+Washington,WA,washington,,Class III,WA,I,IND,IND_CAND,IND_CAND
+Wisconsin,WI,wisconsin,yes,Class III,WI,R,REP,Ron Johnson,Ron Johnson
+Wisconsin,WI,wisconsin,,Class III,WI,D,DEM,DEM_CAND,DEM_CAND
+Wisconsin,WI,wisconsin,,Class III,WI,I,IND,IND_CAND,IND_CAND
